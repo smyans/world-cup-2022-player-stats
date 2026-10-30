@@ -1,0 +1,9 @@
+feature,label,coefficient,ci_low,ci_high
+xg,xG,1.166,0.24,2.176
+shots,Shots,-0.07,-1.102,0.942
+touches_in_box,Touches in box,0.352,-0.63,1.471
+pass_share,Possession (share of passes),-1.344,-2.39,-0.288
+pass_completion_pct,Pass completion %,0.286,-0.784,1.386
+progressive_passes,Progressive passes,0.578,-0.498,1.534
+pressures,Pressures,-0.518,-1.234,0.262
+defensive_actions,Tackles + interceptions + blocks,1.079,0.259,2.119

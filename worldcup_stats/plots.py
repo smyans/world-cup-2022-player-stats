@@ -6,6 +6,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt  # noqa: E402
 import numpy as np  # noqa: E402
 from matplotlib.colors import LinearSegmentedColormap, TwoSlopeNorm  # noqa: E402
+from mplsoccer import Pitch, VerticalPitch  # noqa: E402
 
 from .features import POSITION_GROUPS  # noqa: E402
 
@@ -83,6 +84,75 @@ def correlation_heatmap(corr, path):
     fig.text(0.02, 0.945, "Labelled cells are significant after FDR correction (q < 0.05)",
              color=INK_SECONDARY, fontsize=9)
     fig.tight_layout(rect=(0, 0, 1, 0.94))
+    fig.savefig(path, dpi=200, facecolor=SURFACE)
+    plt.close(fig)
+
+
+def shot_map(shots, path):
+    """Every open-play and set-piece shot of the tournament, sized by xG; goals in blue."""
+    pitch = VerticalPitch(half=True, pitch_type="statsbomb", pitch_color=SURFACE, line_color=GRID,
+                          linewidth=1.2, pad_bottom=-8)
+    fig, ax = pitch.draw(figsize=(7, 6.6))
+    fig.set_facecolor(SURFACE)
+    missed, goals = shots[~shots["goal"]], shots[shots["goal"]]
+    pitch.scatter(missed["x"], missed["y"], s=missed["xg"] * 500 + 8, ax=ax, color=NOT_SIGNIFICANT,
+                  edgecolors=SURFACE, linewidth=0.6, alpha=0.8, label=f"No goal ({len(missed):,})", zorder=2)
+    pitch.scatter(goals["x"], goals["y"], s=goals["xg"] * 500 + 8, ax=ax, color=POSITIVE,
+                  edgecolors=SURFACE, linewidth=0.8, label=f"Goal ({len(goals)})", zorder=3)
+    legend = ax.legend(loc="lower left", frameon=False, fontsize=9, labelcolor=INK, markerscale=0.6)
+    for handle in legend.legend_handles:
+        handle.set_sizes([60])
+    ax.set_title(f"Every shot at Qatar 2022 (marker size = xG, total {shots['xg'].sum():.0f} xG)",
+                 loc="left", color=INK, fontsize=12, fontweight="bold")
+    fig.savefig(path, dpi=200, facecolor=SURFACE, bbox_inches="tight")
+    plt.close(fig)
+
+
+def touch_difference_map(win_grid, lose_grid, path):
+    """Where winning teams have the ball more (blue) or less (red) than losing teams."""
+    diff = win_grid - lose_grid
+    limit = np.abs(diff).max()
+    pitch = Pitch(pitch_type="statsbomb", pitch_color=SURFACE, line_color=INK_SECONDARY, linewidth=1, line_zorder=2)
+    fig, ax = pitch.draw(figsize=(9, 6.4))
+    fig.set_facecolor(SURFACE)
+    image = ax.imshow(diff, extent=(0, 120, 80, 0), cmap=DIVERGING,
+                      norm=TwoSlopeNorm(vmin=-limit, vcenter=0, vmax=limit), zorder=1)
+    ax.annotate("", xy=(72, -3.5), xytext=(48, -3.5), annotation_clip=False,
+                arrowprops={"arrowstyle": "->", "color": INK_SECONDARY, "linewidth": 1.2})
+    ax.text(60, -5, "Attacking direction", ha="center", va="bottom", color=INK_SECONDARY, fontsize=9)
+    bar = fig.colorbar(image, ax=ax, orientation="horizontal", fraction=0.04, pad=0.02)
+    bar.set_label("Winners' share of on-ball actions minus losers' (percentage points)",
+                  color=INK_SECONDARY, fontsize=9)
+    bar.outline.set_visible(False)
+    bar.ax.tick_params(colors=INK_SECONDARY, labelsize=8, length=0)
+    final_third = slice(win_grid.shape[1] * 2 // 3, None)
+    ax.set_title(f"Winners play more in the final third ({win_grid[:, final_third].sum():.1f}% of on-ball "
+                 f"actions vs {lose_grid[:, final_third].sum():.1f}% for losers)",
+                 loc="left", color=INK, fontsize=12, fontweight="bold", pad=22)
+    fig.savefig(path, dpi=200, facecolor=SURFACE, bbox_inches="tight")
+    plt.close(fig)
+
+
+def model_coefficients(coefficients, path):
+    """Standardised logistic-regression coefficients with bootstrap 95% intervals."""
+    coefs = coefficients.sort_values("coefficient")
+    fig, ax = plt.subplots(figsize=(7.5, 4.2), facecolor=SURFACE)
+    significant = (coefs["ci_low"] > 0) | (coefs["ci_high"] < 0)
+    colors = [(POSITIVE if c > 0 else NEGATIVE) if s else NOT_SIGNIFICANT
+              for c, s in zip(coefs["coefficient"], significant)]
+    y = np.arange(len(coefs))
+    ax.hlines(y, coefs["ci_low"], coefs["ci_high"], color=colors, linewidth=2)
+    ax.scatter(coefs["coefficient"], y, color=colors, s=60, zorder=3, edgecolors=SURFACE, linewidth=1.5)
+    ax.axvline(0, color=INK_SECONDARY, linewidth=0.8)
+    ax.set_yticks(y, coefs["label"])
+    ax.xaxis.grid(True, color=GRID, linewidth=0.6)
+    ax.set_axisbelow(True)
+    _style(ax)
+    ax.tick_params(axis="y", colors=INK)
+    ax.set_xlabel("Effect on log-odds of winning, per SD more than the opponent (95% bootstrap CI)",
+                  color=INK_SECONDARY, fontsize=9)
+    ax.set_title("What the win model leans on", loc="left", color=INK, fontsize=12, fontweight="bold")
+    fig.tight_layout()
     fig.savefig(path, dpi=200, facecolor=SURFACE)
     plt.close(fig)
 

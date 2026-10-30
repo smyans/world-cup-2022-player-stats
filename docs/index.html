@@ -1,0 +1,170 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>What Wins World Cup Matches?</title>
+  <meta name="description" content="An interactive event-data analysis of all 64 matches of the 2022 FIFA World Cup: which player stats go with winning, every shot on a pitch, and a win model.">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><circle cx='50' cy='50' r='44' fill='%232a78d6'/><circle cx='50' cy='50' r='16' fill='white'/></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="hero">
+    <div class="wrap">
+      <p class="eyebrow">Qatar 2022 · StatsBomb event data</p>
+      <h1>What wins World Cup matches?</h1>
+      <p class="lede">Every pass, shot, tackle and press from all 64 matches of the 2022 FIFA World Cup, used to answer one question:
+        which numbers actually go with winning, and does it depend on where you play?</p>
+      <div class="tiles" id="summary-tiles"></div>
+      <nav class="toc" aria-label="Sections">
+        <a href="#players">Player stats</a>
+        <a href="#shots">Shot map</a>
+        <a href="#territory">Territory</a>
+        <a href="#model">Win model</a>
+        <a href="#method">Method</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section id="players">
+      <h2>Which player stats go with winning?</h2>
+      <p class="section-lede">Spearman correlation between each per-90 stat and the match result (loss → draw → win), for 1,643 player
+        performances of 30+ minutes. Numbers appear only where the link survives a false-discovery-rate correction.
+        <strong>Click any cell</strong> to compare winners and losers.</p>
+      <div class="split">
+        <div class="card">
+          <div id="heatmap" class="heatmap" role="grid" aria-label="Correlation of each stat with winning, by position group"></div>
+          <div class="scale-legend" id="heatmap-legend"></div>
+        </div>
+        <div class="card sticky" id="dist-card">
+          <h3 id="dist-title"></h3>
+          <p class="meta" id="dist-meta"></p>
+          <svg id="dist-chart" role="img"></svg>
+          <p class="note" id="dist-note"></p>
+        </div>
+      </div>
+      <details class="table-view">
+        <summary>View as table</summary>
+        <div id="corr-table"></div>
+      </details>
+      <div class="callouts">
+        <div class="callout"><strong>Attackers: get in the box.</strong> xG, shots, touches in the box, progressive carries and xA are the only stats
+          that clear the bar. The median attacker on a winning team racks up nearly three times the xG of one on a losing team.</div>
+        <div class="callout"><strong>Midfield and defence: no single stat wins.</strong> Nothing survives correction. Team success there is
+          spread across the unit, not visible in one player's box score.</div>
+        <div class="callout"><strong>Pass completion % is a non-factor</strong> for every position (|ρ| &lt; 0.08). Tidy passing isn't the same as hurting the opponent.</div>
+      </div>
+    </section>
+
+    <section id="shots">
+      <h2>Every shot of the tournament</h2>
+      <p class="section-lede">1,453 shots (penalty shootouts excluded). Marker area is proportional to expected goals (xG):
+        the probability a shot from that spot, in that situation, goes in. Filter by team or player and hover for details.</p>
+      <div class="controls">
+        <label>Team <select id="team-filter"></select></label>
+        <label>Player <select id="player-filter"></select></label>
+        <div class="segmented" role="radiogroup" aria-label="Shot outcome" id="outcome-filter">
+          <button role="radio" aria-checked="true" data-value="all">All shots</button>
+          <button role="radio" aria-checked="false" data-value="target">On target</button>
+          <button role="radio" aria-checked="false" data-value="goal">Goals</button>
+        </div>
+      </div>
+      <div class="split shots-split">
+        <div class="card pitch-card">
+          <svg id="shot-map" role="img" aria-label="Shot map"></svg>
+          <div class="legend" id="shot-legend"></div>
+        </div>
+        <div class="side">
+          <div class="tiles compact" id="shot-tiles"></div>
+          <div class="card">
+            <h3 id="leaderboard-title">Top shooters</h3>
+            <p class="meta">Goals vs expected goals. Click a name to filter.</p>
+            <table class="leaderboard" id="leaderboard"></table>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="territory">
+      <h2>Where winners have the ball</h2>
+      <p class="section-lede">Each zone shows the share of a team's on-ball actions (passes, carries, dribbles, shots, receptions) that happen there,
+        averaged over the 49 decisive matches. Teams always attack left to right.</p>
+      <div class="controls">
+        <div class="segmented" role="radiogroup" aria-label="Territory view" id="territory-view">
+          <button role="radio" aria-checked="true" data-value="diff">Winners minus losers</button>
+          <button role="radio" aria-checked="false" data-value="win">Winners</button>
+          <button role="radio" aria-checked="false" data-value="lose">Losers</button>
+        </div>
+      </div>
+      <div class="card">
+        <svg id="territory-map" role="img" aria-label="Pitch zones showing where winning and losing teams have the ball"></svg>
+        <div class="scale-legend" id="territory-legend"></div>
+      </div>
+      <p class="note" id="territory-note"></p>
+    </section>
+
+    <section id="model">
+      <h2>Can the stats call the winner?</h2>
+      <p class="section-lede">A logistic regression compares the two teams in each decisive match on eight in-game stats (team minus opponent).
+        It is scored with leave-one-match-out cross-validation, so every prediction below is for a match the model never saw.</p>
+      <div class="tiles" id="model-tiles"></div>
+      <div class="split">
+        <div class="card">
+          <h3>What the model leans on</h3>
+          <p class="meta">Effect on the log-odds of winning for one standard deviation more than the opponent, with 95% bootstrap intervals.</p>
+          <svg id="coef-chart" role="img" aria-label="Model coefficients with confidence intervals"></svg>
+        </div>
+        <div class="card">
+          <h3>Every decisive match, as the model saw it</h3>
+          <p class="meta">Each dot is a match, placed at the model's probability that the <em>actual winner</em> would win.
+            Dots left of 50% are matches it got wrong.</p>
+          <svg id="match-chart" role="img" aria-label="Predicted win probability for each match's actual winner"></svg>
+          <div class="legend" id="match-legend"></div>
+        </div>
+      </div>
+      <div class="card">
+        <h3>Biggest surprises</h3>
+        <p class="meta">Wins the stats said shouldn't have happened.</p>
+        <table class="leaderboard" id="surprises"></table>
+      </div>
+      <div class="callouts">
+        <div class="callout"><strong>More of the ball, fewer wins.</strong> Possession is the one stat with a clearly <em>negative</em> weight.
+          Partly that's game state: teams that fall behind chase the game and see more of the ball. Partly it's the tournament itself
+          (Japan beat both Spain and Germany with under 27% of the passes).</div>
+        <div class="callout"><strong>Defending counts.</strong> Out-tackling, out-intercepting and out-blocking the opponent carries about as much weight as xG.</div>
+        <div class="callout"><strong>The flip side:</strong> the model can't explain wins built on possession. England 6–2 Iran reads as an "upset" because England had so much of the ball.</div>
+      </div>
+    </section>
+
+    <section id="method">
+      <h2>Method &amp; caveats</h2>
+      <div class="method-grid">
+        <div>
+          <h3>Data</h3>
+          <p>StatsBomb Open Data for the 2022 World Cup: 234,637 events and full lineups for all 64 matches.</p>
+          <h3>Player stats</h3>
+          <p>26 metrics per player per match, converted to per-90 rates using minutes reconstructed from lineups (stoppage and extra time included).
+            Players under 30 minutes are dropped. Position is the one played longest. Penalty-shootout kicks are excluded everywhere.</p>
+        </div>
+        <div>
+          <h3>Statistics</h3>
+          <p>Spearman correlation with result (loss 0, draw 0.5, win 1), with Benjamini–Hochberg correction across 26 tests per position group.
+            The win model is a symmetric logistic regression (no intercept) on standardised stat differences, scored with leave-one-match-out cross-validation.</p>
+          <h3>Caveats</h3>
+          <p>Correlation isn't causation, and in-game stats are partly <em>caused</em> by the score. Players in the same match share an outcome.
+            It's one tournament: 64 matches, 49 with a winner.</p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="wrap">
+    <p>Code &amp; data: <a href="https://github.com/smyans/world-cup-2022-player-stats">github.com/smyans/world-cup-2022-player-stats</a> ·
+      Data: <a href="https://github.com/statsbomb/open-data">StatsBomb Open Data</a></p>
+  </footer>
+
+  <div class="tooltip" id="tooltip" role="tooltip" hidden></div>
+  <script src="app.js"></script>
+</body>
+</html>

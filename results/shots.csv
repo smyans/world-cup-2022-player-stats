@@ -1,0 +1,1454 @@
+match_id,match,stage,team,player,minute,x,y,xg,outcome,shot_type,body_part,goal,on_target
+3857276,Canada 1–2 Morocco,Group Stage,Canada,Mark Anthony Kaye,2,96.5,40.7,0.038882375,Blocked,Open Play,Left Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Hakim Ziyech,3,83.9,45.0,0.024477394,Goal,Open Play,Left Foot,True,True
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Abdelhamid Sabiri,8,86.8,38.4,0.02207015,Blocked,Free Kick,Right Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Sofiane Boufal,9,107.0,48.3,0.06158555,Wayward,Open Play,Left Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Canada,Tajon Buchanan,14,113.3,34.9,0.27914461,Off T,Open Play,Right Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Hakim Ziyech,15,97.5,54.0,0.022624016,Off T,Open Play,Left Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Youssef En-Nesyri,22,107.6,53.2,0.10405799,Goal,Open Play,Right Foot,True,True
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Abdelhamid Sabiri,32,107.9,34.2,0.09711841,Blocked,Open Play,Right Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Morocco,Youssef En-Nesyri,47,106.8,46.7,0.094470315,Wayward,Open Play,Right Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Canada,Alphonso Davies,57,105.1,41.2,0.051903803,Off T,Open Play,Left Foot,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Canada,Atiba Hutchinson,70,112.2,37.7,0.086874224,Post,Open Play,Head,False,False
+3857276,Canada 1–2 Morocco,Group Stage,Canada,Alistair Johnston,70,118.8,41.6,0.638813,Off T,Open Play,Head,False,False
+3857271,England 6–2 Iran,Group Stage,England,Harry Maguire,7,115.4,29.4,0.23307544,Off T,Open Play,Left Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Bukayo Saka,26,101.1,55.3,0.028282227,Saved,Open Play,Left Foot,False,True
+3857271,England 6–2 Iran,Group Stage,England,Mason Mount,29,113.4,49.1,0.06697492,Off T,Open Play,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Harry Maguire,31,110.5,40.7,0.06988547,Post,Open Play,Head,False,False
+3857271,England 6–2 Iran,Group Stage,England,Jude Bellingham,34,112.0,38.0,0.08285139,Goal,Open Play,Head,True,True
+3857271,England 6–2 Iran,Group Stage,England,Bukayo Saka,42,104.1,38.5,0.061030492,Goal,Open Play,Left Foot,True,True
+3857271,England 6–2 Iran,Group Stage,England,Raheem Sterling,45,111.0,42.8,0.1885282,Goal,Open Play,Right Foot,True,True
+3857271,England 6–2 Iran,Group Stage,Iran,Alireza Jahanbakhsh,55,106.4,48.8,0.11232807,Off T,Open Play,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Kieran Trippier,50,93.9,27.7,0.042866398,Blocked,Free Kick,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Luke Shaw,58,97.9,25.1,0.021548782,Blocked,Open Play,Left Foot,False,False
+3857271,England 6–2 Iran,Group Stage,Iran,Saeid Ezatolahi,60,83.8,35.5,0.0065368367,Off T,Open Play,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Bukayo Saka,61,105.3,46.3,0.080026746,Goal,Open Play,Left Foot,True,True
+3857271,England 6–2 Iran,Group Stage,Iran,Mehdi Taremi,64,109.7,48.0,0.065701395,Goal,Open Play,Right Foot,True,True
+3857271,England 6–2 Iran,Group Stage,Iran,Mehdi Torabi,69,103.5,32.3,0.045791544,Blocked,Open Play,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,Iran,Ahmad Nourollahi,69,97.8,34.8,0.028478073,Off T,Open Play,Left Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Marcus Rashford,70,109.7,47.7,0.40810898,Goal,Open Play,Left Foot,True,True
+3857271,England 6–2 Iran,Group Stage,Iran,Mehdi Taremi,76,105.1,54.6,0.06202265,Off T,Open Play,Right Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Marcus Rashford,83,108.6,50.7,0.0776978,Blocked,Open Play,Left Foot,False,False
+3857271,England 6–2 Iran,Group Stage,England,Jack Grealish,89,112.0,39.9,0.6262809,Goal,Open Play,Right Foot,True,True
+3857271,England 6–2 Iran,Group Stage,Iran,Sardar Azmoun,97,110.9,30.5,0.35130003,Saved to Post,Open Play,Right Foot,False,True
+3857271,England 6–2 Iran,Group Stage,Iran,Mehdi Taremi,102,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Ivan Perišić,0,102.9,23.8,0.03397081,Off T,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Yannick Carrasco,9,105.3,27.8,0.05519996,Blocked,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Yannick Carrasco,10,117.0,29.2,0.020840297,Blocked,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Dries Mertens,12,105.2,33.9,0.1934709,Off T,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Axel Witsel,24,92.7,34.9,0.025340356,Blocked,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Marcelo Brozović,32,99.8,36.6,0.054300383,Blocked,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Marko Livaja,32,112.2,42.5,0.104244776,Off T,Open Play,Head,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Dries Mertens,41,116.9,49.2,0.108029366,Wayward,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Borna Sosa,44,94.9,25.7,0.024362085,Off T,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Ivan Perišić,48,108.5,38.0,0.08771692,Wayward,Open Play,Head,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Josip Juranović,48,103.1,51.5,0.041306578,Off T,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Yannick Carrasco,47,100.9,28.3,0.026916144,Wayward,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Romelu Lukaku,48,117.5,34.2,0.1189759,Saved,Open Play,Head,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Mateo Kovačić,49,103.9,29.2,0.07960723,Saved,Open Play,Right Foot,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Borna Sosa,49,94.7,35.3,0.024012579,Off T,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Kevin De Bruyne,50,100.9,32.5,0.048855886,Off T,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Marcelo Brozović,53,100.6,37.7,0.10219261,Saved,Open Play,Left Foot,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Luka Modrić,53,105.6,52.9,0.071706615,Saved,Open Play,Left Foot,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Yannick Carrasco,59,112.8,36.3,0.09935363,Blocked,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Romelu Lukaku,59,110.7,45.1,0.19960539,Post,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Romelu Lukaku,61,113.1,42.1,0.30245224,Off T,Open Play,Head,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Croatia,Luka Modrić,67,106.7,39.0,0.07160131,Saved,Open Play,Right Foot,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Kevin De Bruyne,68,111.9,60.4,0.0061408128,Saved,Open Play,Right Foot,False,True
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Jan Vertonghen,77,112.6,36.5,0.07045005,Blocked,Open Play,Head,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Thomas Meunier,86,110.5,53.1,0.04308796,Blocked,Open Play,Right Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Romelu Lukaku,86,115.5,43.8,0.4909717,Off T,Open Play,Left Foot,False,False
+3857296,Croatia 0–0 Belgium,Group Stage,Belgium,Romelu Lukaku,89,117.4,37.3,0.5721495,Saved,Open Play,Other,False,True
+3857274,Netherlands 1–1 Ecuador,Group Stage,Netherlands,Cody Gakpo,5,100.6,31.0,0.059259485,Goal,Open Play,Left Foot,True,True
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Enner Valencia,10,107.0,30.0,0.062208217,Blocked,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Moisés Caicedo,23,94.8,37.9,0.030668529,Blocked,Open Play,Right Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Michael Estrada,26,112.1,34.6,0.069653474,Wayward,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Enner Valencia,31,100.6,23.5,0.029882463,Saved,Open Play,Right Foot,False,True
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Enner Valencia,46,110.2,47.9,0.024015462,Blocked,Open Play,Head,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Angelo Preciado,47,100.6,54.0,0.022953799,Blocked,Open Play,Right Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Pervis Estupiñán,47,112.0,44.1,0.18923391,Wayward,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Pervis Estupiñán,48,105.8,28.7,0.08083876,Saved,Open Play,Left Foot,False,True
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Enner Valencia,48,116.0,38.1,0.790909,Goal,Open Play,Right Foot,True,True
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Enner Valencia,58,102.0,37.5,0.09564507,Blocked,Open Play,Right Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Gonzalo Plata,58,104.2,52.6,0.046335444,Post,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Michael Estrada,63,105.1,38.0,0.13418972,Wayward,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Netherlands,Teun Koopmeiners,65,96.5,40.9,0.04520454,Off T,Open Play,Left Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Moisés Caicedo,72,103.2,29.4,0.03323832,Blocked,Open Play,Right Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Angelo Preciado,80,95.3,57.9,0.007451811,Off T,Open Play,Right Foot,False,False
+3857274,Netherlands 1–1 Ecuador,Group Stage,Ecuador,Angelo Preciado,91,98.9,38.2,0.033830326,Saved,Open Play,Head,False,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Sergio Busquets,6,97.0,46.1,0.03268242,Off T,Open Play,Left Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Japan,Junya Ito,7,114.0,53.5,0.04214545,Off T,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Álvaro Morata,8,109.9,35.6,0.06376064,Saved,Open Play,Head,False,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Álvaro Morata,11,115.3,38.3,0.33106714,Goal,Open Play,Head,True,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Álvaro Morata,22,104.7,51.6,0.10093839,Saved,Open Play,Right Foot,False,True
+3857255,Japan 2–1 Spain,Group Stage,Japan,Daichi Kamada,35,107.0,54.5,0.03356069,Blocked,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Daniel Olmo,41,102.8,35.2,0.10385344,Blocked,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Japan,Ritsu Doan,47,100.5,55.8,0.027777622,Goal,Open Play,Left Foot,True,True
+3857255,Japan 2–1 Spain,Group Stage,Japan,Ao Tanaka,50,118.7,40.2,0.87261814,Goal,Open Play,Other,True,True
+3857255,Japan 2–1 Spain,Group Stage,Japan,Takuma Asano,69,100.5,36.3,0.13121767,Off T,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Marco Asensio Willemsen,73,104.8,23.5,0.016301522,Blocked,Open Play,Left Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Daniel Olmo,79,86.3,46.3,0.01649772,Blocked,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Japan,Ko Itakura,82,104.0,39.0,0.0504811,Saved,Open Play,Head,False,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Marco Asensio Willemsen,84,96.8,52.1,0.02842248,Blocked,Open Play,Left Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Jordi Alba,88,97.9,27.0,0.0241939,Blocked,Open Play,Right Foot,False,False
+3857255,Japan 2–1 Spain,Group Stage,Spain,Marco Asensio Willemsen,88,94.8,61.9,0.007735879,Saved,Open Play,Left Foot,False,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Daniel Olmo,89,111.0,52.0,0.12373556,Saved,Open Play,Right Foot,False,True
+3857255,Japan 2–1 Spain,Group Stage,Spain,Daniel Olmo,95,94.2,57.0,0.008523117,Off T,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,England,Harry Kane,9,108.9,42.6,0.10607713,Blocked,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,England,John Stones,9,109.2,38.6,0.04222343,Wayward,Open Play,Head,False,False
+3857272,England 0–0 United States,Group Stage,England,Mason Mount,10,94.2,27.2,0.019677445,Off T,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Haji Wright,16,108.1,43.9,0.048006557,Off T,Open Play,Head,False,False
+3857272,England 0–0 United States,Group Stage,United States,Weston McKennie,25,110.5,39.5,0.18268152,Off T,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Yunus Dimoara Musah,28,93.0,25.1,0.016826272,Saved,Open Play,Right Foot,False,True
+3857272,England 0–0 United States,Group Stage,United States,Christian Pulisic,32,106.4,24.4,0.023374733,Post,Open Play,Left Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Sergiño Dest,40,108.6,51.2,0.056137927,Blocked,Open Play,Left Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Christian Pulisic,42,110.0,42.8,0.05394238,Off T,Open Play,Head,False,False
+3857272,England 0–0 United States,Group Stage,England,Bukayo Saka,44,113.2,36.1,0.08680134,Off T,Open Play,Left Foot,False,False
+3857272,England 0–0 United States,Group Stage,England,Mason Mount,45,100.1,32.9,0.0710417,Saved,Open Play,Right Foot,False,True
+3857272,England 0–0 United States,Group Stage,United States,Haji Wright,48,106.5,28.3,0.0422633,Blocked,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Weston McKennie,48,99.2,53.9,0.032319076,Off T,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Christian Pulisic,57,98.8,24.7,0.025169194,Blocked,Open Play,Right Foot,False,False
+3857272,England 0–0 United States,Group Stage,United States,Christian Pulisic,61,95.3,40.1,0.033566043,Blocked,Open Play,Left Foot,False,False
+3857272,England 0–0 United States,Group Stage,England,Marcus Rashford,86,105.3,20.7,0.009332121,Saved,Open Play,Right Foot,False,True
+3857272,England 0–0 United States,Group Stage,England,Harry Maguire,90,109.9,37.5,0.05556727,Saved,Open Play,Head,False,True
+3857272,England 0–0 United States,Group Stage,England,Harry Kane,92,111.2,40.8,0.06991791,Off T,Open Play,Head,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Yunus Dimoara Musah,8,100.5,38.2,0.045798708,Off T,Open Play,Left Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Christian Pulisic,10,110.1,35.6,0.080380306,Saved,Open Play,Head,False,True
+3857278,Iran 0–1 United States,Group Stage,United States,Josh Sargent,27,99.0,32.1,0.040954046,Blocked,Open Play,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Timothy Weah,27,109.7,35.9,0.12157792,Saved,Open Play,Head,False,True
+3857278,Iran 0–1 United States,Group Stage,United States,Sergiño Dest,29,101.3,48.2,0.05512647,Blocked,Open Play,Left Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Timothy Weah,32,108.7,54.1,0.04585104,Off T,Open Play,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Sergiño Dest,36,102.0,50.5,0.043695714,Blocked,Open Play,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Christian Pulisic,37,115.1,38.7,0.5303789,Goal,Open Play,Right Foot,True,True
+3857278,Iran 0–1 United States,Group Stage,United States,Josh Sargent,41,114.2,56.9,0.011004616,Wayward,Open Play,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Josh Sargent,46,110.0,25.2,0.05674209,Saved,Open Play,Left Foot,False,True
+3857278,Iran 0–1 United States,Group Stage,Iran,Saman Ghoddos,51,114.1,38.7,0.39133456,Off T,Open Play,Head,False,False
+3857278,Iran 0–1 United States,Group Stage,United States,Yunus Dimoara Musah,68,97.0,43.3,0.080397844,Off T,Free Kick,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,Iran,Saeid Ezatolahi,69,90.8,21.8,0.006830182,Off T,Open Play,Right Foot,False,False
+3857278,Iran 0–1 United States,Group Stage,Iran,Morteza Pouraliganji,92,111.0,35.6,0.21722858,Off T,Open Play,Head,False,False
+3857278,Iran 0–1 United States,Group Stage,Iran,Mehdi Taremi,97,111.1,39.5,0.30539662,Saved,Open Play,Left Foot,False,True
+3857278,Iran 0–1 United States,Group Stage,United States,Haji Wright,99,105.1,23.9,0.057746947,Saved,Open Play,Left Foot,False,True
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Noussair Mazraoui,6,96.9,32.0,0.026111592,Blocked,Open Play,Right Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Hakim Ziyech,12,101.9,43.3,0.052363984,Blocked,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Croatia,Ivan Perišić,16,82.9,33.6,0.00976612,Off T,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Sofiane Boufal,18,96.7,46.7,0.04188839,Blocked,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Hakim Ziyech,20,94.5,37.4,0.06625415,Blocked,Free Kick,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Youssef En-Nesyri,24,117.8,31.5,0.03416934,Blocked,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Croatia,Nikola Vlašić,45,114.7,35.7,0.44776994,Saved,Open Play,Right Foot,False,True
+3857277,Morocco 0–0 Croatia,Group Stage,Croatia,Nikola Vlašić,46,105.2,33.9,0.06879163,Blocked,Open Play,Right Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Croatia,Luka Modrić,46,98.8,39.3,0.073204115,Off T,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Sofiane Boufal,50,94.0,38.6,0.042848527,Blocked,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Noussair Mazraoui,50,115.3,29.2,0.07962643,Saved,Open Play,Head,False,True
+3857277,Morocco 0–0 Croatia,Group Stage,Croatia,Dejan Lovren,51,112.7,38.8,0.2503287,Blocked,Open Play,Left Foot,False,False
+3857277,Morocco 0–0 Croatia,Group Stage,Morocco,Achraf Hakimi,64,88.5,31.5,0.019376563,Saved,Open Play,Right Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Wales,Neco Williams,2,99.5,23.0,0.023614733,Off T,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Sardar Azmoun,6,97.2,31.2,0.035244513,Saved,Open Play,Right Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Wales,Kieffer Moore,11,111.6,44.5,0.12850787,Saved,Open Play,Right Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ahmad Nourollahi,19,95.5,34.0,0.017788952,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Sardar Azmoun,22,109.6,34.7,0.07202582,Off T,Open Play,Head,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Gareth Bale,28,88.9,36.5,0.02170084,Saved,Open Play,Left Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Wales,Harry Wilson,41,105.5,25.4,0.030164797,Blocked,Open Play,Left Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Mehdi Taremi,48,105.7,38.8,0.08566745,Wayward,Open Play,Left Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ahmad Nourollahi,49,86.4,48.2,0.011584845,Saved,Open Play,Right Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Iran,Sardar Azmoun,50,110.0,49.7,0.28799564,Post,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ali Gholizadeh,51,97.2,48.0,0.04282673,Post,Open Play,Left Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Sardar Azmoun,51,111.0,36.2,0.21401532,Saved,Open Play,Head,False,True
+3857273,Wales 0–2 Iran,Group Stage,Wales,Kieffer Moore,52,114.4,39.9,0.22100283,Off T,Open Play,Head,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ehsan Hajsafi,55,104.6,33.1,0.068153165,Blocked,Open Play,Left Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Mehdi Taremi,63,107.1,29.4,0.075855605,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ahmad Nourollahi,69,90.5,45.6,0.015279148,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Morteza Pouraliganji,71,100.8,38.5,0.05160931,Blocked,Open Play,Left Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Saeid Ezatolahi,72,99.5,49.3,0.047915842,Saved,Open Play,Right Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ahmad Nourollahi,74,85.8,53.5,0.0072957636,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Aaron Ramsey,82,104.0,53.9,0.025361432,Wayward,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Neco Williams,82,98.6,51.1,0.031851415,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Ben Davies,82,101.7,30.8,0.053537875,Saved,Open Play,Left Foot,False,True
+3857273,Wales 0–2 Iran,Group Stage,Iran,Karim Ansarifard,87,99.5,36.2,0.06399969,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Mehdi Torabi,87,99.1,39.0,0.051057886,Off T,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Neco Williams,95,89.9,45.0,0.020104993,Wayward,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Wales,Brennan Johnson,95,114.4,52.4,0.059788406,Saved Off Target,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ramin Rezaeian,95,98.3,52.1,0.031046849,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Alireza Jahanbakhsh,96,99.2,46.5,0.031239294,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Alireza Jahanbakhsh,97,91.4,24.9,0.011336825,Blocked,Open Play,Right Foot,False,False
+3857273,Wales 0–2 Iran,Group Stage,Iran,Roozbeh Cheshmi,97,95.1,37.5,0.03268815,Goal,Open Play,Right Foot,True,True
+3857273,Wales 0–2 Iran,Group Stage,Iran,Ramin Rezaeian,100,104.8,45.3,0.19933115,Goal,Open Play,Right Foot,True,True
+3857275,Tunisia 1–0 France,Group Stage,France,Kingsley Coman,24,112.3,29.9,0.08786314,Off T,Open Play,Left Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,Tunisia,Anis Slimane,29,110.9,41.0,0.1007914,Saved,Open Play,Head,False,True
+3857275,Tunisia 1–0 France,Group Stage,Tunisia,Wahbi Khazri,34,95.1,52.3,0.016592033,Saved,Open Play,Left Foot,False,True
+3857275,Tunisia 1–0 France,Group Stage,France,Youssouf Fofana,46,99.9,53.4,0.041162748,Blocked,Open Play,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,Tunisia,Wahbi Khazri,46,97.9,19.8,0.010898009,Off T,Open Play,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,Tunisia,Aïssa Laïdouni,51,114.8,22.4,0.013856714,Off T,Open Play,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,Tunisia,Wahbi Khazri,57,103.3,37.8,0.15620883,Goal,Open Play,Left Foot,True,True
+3857275,Tunisia 1–0 France,Group Stage,France,Axel Disasi,79,111.3,41.5,0.061025612,Blocked,Open Play,Head,False,False
+3857275,Tunisia 1–0 France,Group Stage,France,Adrien Rabiot,81,113.8,47.7,0.080746524,Wayward,Open Play,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,France,Ousmane Dembélé,81,95.9,53.5,0.020325886,Saved,Open Play,Right Foot,False,True
+3857275,Tunisia 1–0 France,Group Stage,France,Adrien Rabiot,84,108.7,29.1,0.06369618,Wayward,Open Play,Left Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,France,Kylian Mbappé,88,116.8,24.7,0.01194291,Saved,Open Play,Right Foot,False,True
+3857275,Tunisia 1–0 France,Group Stage,France,Randal Kolo,89,96.4,37.1,0.041042205,Blocked,Open Play,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,France,Kylian Mbappé,92,95.6,30.2,0.06416701,Blocked,Free Kick,Right Foot,False,False
+3857275,Tunisia 1–0 France,Group Stage,France,Kylian Mbappé,92,87.6,15.0,0.005017159,Saved,Open Play,Right Foot,False,True
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,9,104.0,39.5,0.28441095,Saved,Open Play,Right Foot,False,True
+3857261,Wales 0–3 England,Group Stage,England,Phil Foden,14,97.4,54.6,0.02354375,Off T,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Harry Maguire,17,120.0,54.6,0.01084097,Off T,Open Play,Head,False,False
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,23,98.2,19.5,0.010357286,Blocked,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Phil Foden,37,105.5,47.4,0.05725451,Off T,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,Wales,Joe Allen,38,94.1,47.0,0.022615774,Blocked,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,38,108.4,35.0,0.081256144,Off T,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Harry Kane,43,101.5,35.7,0.028181294,Blocked,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Harry Kane,47,101.2,27.6,0.030065771,Blocked,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,John Stones,47,112.8,55.4,0.006450981,Saved,Open Play,Head,False,True
+3857261,Wales 0–3 England,Group Stage,Wales,Joe Allen,49,100.7,51.3,0.04109325,Off T,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,49,96.1,29.3,0.05780817,Goal,Free Kick,Right Foot,True,True
+3857261,Wales 0–3 England,Group Stage,England,Phil Foden,50,114.5,34.1,0.44030064,Goal,Open Play,Left Foot,True,True
+3857261,Wales 0–3 England,Group Stage,Wales,Kieffer Moore,55,90.1,22.3,0.00753591,Saved,Open Play,Right Foot,False,True
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,67,109.9,50.3,0.096602984,Goal,Open Play,Left Foot,True,True
+3857261,Wales 0–3 England,Group Stage,England,Marcus Rashford,71,110.3,52.4,0.13184288,Saved,Open Play,Right Foot,False,True
+3857261,Wales 0–3 England,Group Stage,Wales,Brennan Johnson,72,104.5,57.3,0.02192258,Blocked,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Jude Bellingham,76,104.3,32.8,0.25030845,Saved,Open Play,Right Foot,False,True
+3857261,Wales 0–3 England,Group Stage,England,Jude Bellingham,76,112.7,29.3,0.24362406,Wayward,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Phil Foden,76,116.1,39.5,0.6100251,Off T,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,Wales,Harry Wilson,82,92.6,52.6,0.031328887,Blocked,Free Kick,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,Wales,Rubin Colwill,83,98.3,26.1,0.025066664,Off T,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,Wales,Kieffer Moore,86,102.1,34.6,0.058446433,Off T,Open Play,Right Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,John Stones,90,114.4,43.9,0.45507616,Post,Open Play,Left Foot,False,False
+3857261,Wales 0–3 England,Group Stage,England,Phil Foden,93,111.0,48.5,0.09753507,Blocked,Open Play,Left Foot,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Bryan Mbeumo,9,109.4,22.7,0.016072592,Saved,Open Play,Left Foot,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Karl Toko Ekambi,9,108.7,32.1,0.15900026,Off T,Open Play,Right Foot,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Granit Xhaka,11,88.1,28.2,0.012105021,Off T,Open Play,Left Foot,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Collins Fai,25,98.8,59.8,0.009452554,Off T,Open Play,Right Foot,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Martin Hongla Yma II,29,110.6,53.8,0.08237888,Saved,Open Play,Right Foot,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Nico Elvedi,39,113.3,38.7,0.19001445,Off T,Open Play,Head,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Eric Maxim Choupo-Moting,40,105.2,53.5,0.041722767,Blocked,Open Play,Right Foot,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Manuel Akanji,45,114.7,38.7,0.15555824,Off T,Open Play,Head,False,False
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Breel Embolo,47,111.9,39.5,0.55189455,Goal,Open Play,Right Foot,True,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Nicolas N'Koulou,49,116.1,35.1,0.24569963,Saved,Open Play,Head,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,Eric Maxim Choupo-Moting,56,119.2,47.9,0.0123953605,Saved,Open Play,Right Foot,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Cameroon,André Zambo Anguissa,65,107.5,44.3,0.046351306,Saved,Open Play,Head,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Ruben Vargas,65,107.5,41.8,0.1977995,Saved,Open Play,Right Foot,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Granit Xhaka,88,96.2,37.3,0.048882935,Saved,Open Play,Left Foot,False,True
+3857290,Switzerland 1–0 Cameroon,Group Stage,Switzerland,Haris Seferović,94,108.0,45.8,0.27028984,Blocked,Open Play,Left Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Otavinho,4,96.6,34.3,0.02513017,Off T,Open Play,Right Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Rúben Neves,5,98.1,36.6,0.07171052,Blocked,Open Play,Right Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Cristiano Ronaldo,9,107.7,39.2,0.4577736,Saved,Open Play,Right Foot,False,True
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Cristiano Ronaldo,12,116.3,43.7,0.2074416,Off T,Open Play,Head,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,João Félix,27,104.2,35.6,0.07848694,Off T,Open Play,Left Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Otavinho,35,99.9,32.5,0.045895047,Saved,Open Play,Right Foot,False,True
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Cristiano Ronaldo,41,110.0,25.1,0.030432492,Blocked,Open Play,Left Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Alidu Seidu,53,88.8,44.2,0.015372672,Off T,Open Play,Left Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Mohammed Kudus,54,92.9,31.0,0.030134441,Off T,Open Play,Left Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Cristiano Ronaldo,64,108.1,40.1,0.7835,Goal,Penalty,Right Foot,True,True
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Iñaki Williams,66,91.1,47.3,0.020453067,Blocked,Open Play,Right Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Thomas Partey,68,92.4,52.5,0.021057075,Off T,Open Play,Right Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Mohammed Kudus,71,90.8,34.5,0.02159481,Saved,Open Play,Left Foot,False,True
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,André Ayew,72,115.6,39.8,0.48524466,Goal,Open Play,Right Foot,True,True
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,João Félix,77,107.5,52.6,0.21504128,Goal,Open Play,Right Foot,True,True
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Rafael Leão,79,111.7,28.3,0.15539157,Goal,Open Play,Right Foot,True,True
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Osman Bukari,88,113.5,40.2,0.15547352,Goal,Open Play,Head,True,True
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Mohamed Salisu,91,106.9,30.6,0.02431712,Off T,Open Play,Head,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Portugal,Rafael Leão,95,95.5,29.9,0.026070174,Blocked,Open Play,Right Foot,False,False
+3857298,Portugal 3–2 Ghana,Group Stage,Ghana,Osman Bukari,97,103.3,12.6,0.0063759447,Off T,Open Play,Right Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Boulaye Dia,0,107.0,27.1,0.034865376,Blocked,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Vincent Janssen,3,103.2,34.3,0.12169348,Blocked,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Ismaïla Sarr,8,97.5,44.1,0.059537582,Off T,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Daley Blind,16,112.8,32.9,0.04866169,Off T,Open Play,Head,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Vincent Janssen,18,98.3,44.3,0.03382374,Blocked,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Ismaïla Sarr,24,102.7,25.9,0.034923773,Blocked,Open Play,Right Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Virgil van Dijk,26,109.4,38.0,0.045367446,Off T,Open Play,Head,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Idrissa Gueye,28,100.9,48.4,0.025139945,Blocked,Open Play,Right Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Krépin Diatta,28,100.0,56.6,0.03131155,Off T,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Youssouf Sabaly,32,84.7,54.0,0.0068181115,Saved,Open Play,Right Foot,False,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Steven Berghuis,39,97.2,47.3,0.030127633,Off T,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Virgil van Dijk,52,111.1,40.2,0.06871433,Off T,Open Play,Head,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Youssouf Sabaly,53,96.9,57.9,0.011074076,Blocked,Open Play,Right Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Krépin Diatta,57,115.2,50.5,0.058196757,Wayward,Open Play,Right Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Steven Berghuis,59,95.3,32.8,0.038496487,Blocked,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Boulaye Dia,64,107.6,56.5,0.04221427,Saved,Open Play,Right Foot,False,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Idrissa Gueye,72,103.3,40.4,0.06520781,Saved,Open Play,Right Foot,False,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Bamba Dieng,74,104.3,31.7,0.07416881,Off T,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Ismaïla Sarr,81,111.3,40.6,0.06430619,Off T,Open Play,Head,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Cody Gakpo,83,112.3,39.0,0.28603274,Goal,Open Play,Head,True,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Pape Gueye,85,93.8,56.8,0.008650101,Saved,Open Play,Left Foot,False,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Ismail Jakobs,91,91.0,27.5,0.014392905,Off T,Open Play,Left Foot,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Senegal,Bamba Dieng,92,112.8,35.7,0.16068545,Off T,Open Play,Head,False,False
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Memphis Depay,98,101.2,50.1,0.102816984,Saved,Open Play,Left Foot,False,True
+3857285,Senegal 0–2 Netherlands,Group Stage,Netherlands,Davy Klaassen,98,109.5,34.8,0.34814927,Goal,Open Play,Left Foot,True,True
+3857282,United States 1–1 Wales,Group Stage,United States,Josh Sargent,9,116.0,35.3,0.25332773,Post,Open Play,Head,False,False
+3857282,United States 1–1 Wales,Group Stage,Wales,Ethan Ampadu,13,87.6,43.1,0.013776194,Off T,Open Play,Right Foot,False,False
+3857282,United States 1–1 Wales,Group Stage,United States,Sergiño Dest,28,90.9,56.6,0.0066337776,Off T,Open Play,Right Foot,False,False
+3857282,United States 1–1 Wales,Group Stage,United States,Timothy Weah,35,107.7,37.8,0.20100605,Goal,Open Play,Right Foot,True,True
+3857282,United States 1–1 Wales,Group Stage,Wales,Ben Davies,44,114.7,37.5,0.14399761,Off T,Open Play,Head,False,False
+3857282,United States 1–1 Wales,Group Stage,Wales,Kieffer Moore,60,93.4,42.2,0.032130886,Blocked,Open Play,Left Foot,False,False
+3857282,United States 1–1 Wales,Group Stage,Wales,Ben Davies,63,109.2,38.3,0.18666926,Saved,Open Play,Head,False,True
+3857282,United States 1–1 Wales,Group Stage,Wales,Kieffer Moore,64,116.3,43.4,0.19270518,Off T,Open Play,Head,False,False
+3857282,United States 1–1 Wales,Group Stage,United States,Haji Wright,74,106.6,46.9,0.027433796,Off T,Open Play,Head,False,False
+3857282,United States 1–1 Wales,Group Stage,United States,Brenden Aaronson,76,116.3,46.7,0.09428854,Off T,Open Play,Head,False,False
+3857282,United States 1–1 Wales,Group Stage,Wales,Gareth Bale,81,108.0,40.0,0.7835,Goal,Penalty,Left Foot,True,True
+3857282,United States 1–1 Wales,Group Stage,Wales,Brennan Johnson,88,109.9,56.2,0.042556882,Saved,Open Play,Right Foot,False,True
+3857282,United States 1–1 Wales,Group Stage,United States,Tyler Adams,91,92.8,35.5,0.019808901,Blocked,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Al Burayk,7,91.6,24.8,0.012477021,Blocked,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Kanoo,12,105.5,54.5,0.03839731,Saved,Open Play,Right Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Krystian Bielik,25,111.7,39.3,0.075333446,Blocked,Open Play,Head,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Saleh Al Shehri,32,108.5,45.0,0.044610713,Wayward,Open Play,Head,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Piotr Zieliński,38,111.9,44.7,0.23496674,Goal,Open Play,Right Foot,True,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Robert Lewandowski,40,112.9,58.5,0.009729679,Wayward,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Salem Al Dawsari,45,108.1,40.1,0.7835,Saved,Penalty,Right Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Al Burayk,45,112.7,32.9,0.35719204,Saved,Open Play,Right Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Saud Abdul Hamid,50,85.9,24.5,0.005913877,Blocked,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Kanoo,50,104.2,39.3,0.03705331,Off T,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Salem Al Dawsari,53,97.6,21.6,0.010959039,Off T,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Salem Al Dawsari,54,114.6,36.1,0.16438472,Saved,Open Play,Left Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Abdulelah Al Malki,54,97.0,40.0,0.0391187,Off T,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Firas Albirakan,59,112.9,27.5,0.11089649,Off T,Open Play,Left Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Kanoo,60,107.3,49.4,0.07597345,Off T,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Arkadiusz Milik,62,111.0,38.8,0.13519733,Post,Open Play,Head,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Robert Lewandowski,65,115.1,44.4,0.25903136,Post,Open Play,Other,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Nawaf Al Abid,67,95.1,46.7,0.0660456,Blocked,Free Kick,Left Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Salem Al Dawsari,68,96.0,34.2,0.03677261,Saved,Open Play,Right Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Robert Lewandowski,72,107.3,49.0,0.09536816,Blocked,Open Play,Right Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Abdulelah Al Malki,77,103.2,34.7,0.10027991,Off T,Open Play,Left Foot,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Krzysztof Piątek,80,107.4,41.4,0.02819521,Off T,Open Play,Head,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Robert Lewandowski,81,107.2,44.6,0.47824246,Goal,Open Play,Left Foot,True,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Abdulrahman Al Obod,86,118.0,48.2,0.041744728,Off T,Open Play,Head,False,False
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Poland,Robert Lewandowski,89,109.9,48.1,0.4181081,Saved,Open Play,Right Foot,False,True
+3857297,Poland 2–0 Saudi Arabia,Group Stage,Saudi Arabia,Mohammed Kanoo,95,95.3,32.9,0.046656966,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Memphis Depay,0,114.9,52.7,0.04113277,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Qatar,Hassan Al Heidos,2,89.6,52.0,0.015712837,Saved,Open Play,Right Foot,False,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Daley Blind,3,114.1,29.0,0.10723932,Saved,Open Play,Right Foot,False,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Daley Blind,3,115.2,28.6,0.042171385,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Cody Gakpo,6,93.2,29.5,0.023612352,Blocked,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Frenkie de Jong,13,96.9,32.3,0.032602046,Blocked,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Memphis Depay,13,107.4,31.3,0.14338174,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Davy Klaassen,18,113.0,44.5,0.08364612,Off T,Open Play,Head,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Qatar,Abdelkarim Hassan,24,109.2,45.5,0.067132466,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Memphis Depay,25,113.6,30.5,0.0753362,Blocked,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Cody Gakpo,25,103.3,39.8,0.14035599,Goal,Open Play,Right Foot,True,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Qatar,Ismaeel Mohammad,28,93.9,39.3,0.03016361,Saved,Open Play,Right Foot,False,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Memphis Depay,47,93.6,49.7,0.029451067,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Memphis Depay,48,116.4,34.2,0.2959347,Saved,Open Play,Right Foot,False,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Frenkie de Jong,48,117.6,40.3,0.6883914,Goal,Open Play,Right Foot,True,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Qatar,Abdulaziz Hatem,76,94.7,53.1,0.024495702,Saved,Open Play,Right Foot,False,True
+3857294,Netherlands 2–0 Qatar,Group Stage,Qatar,Pedro Miguel Correia,87,88.8,53.2,0.00621196,Off T,Open Play,Right Foot,False,False
+3857294,Netherlands 2–0 Qatar,Group Stage,Netherlands,Steven Berghuis,91,102.2,59.1,0.010698183,Post,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Ousmane Dembélé,5,97.8,38.0,0.04759094,Blocked,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Adrien Rabiot,9,115.0,45.6,0.10936305,Blocked,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Raphaël Varane,12,112.4,46.9,0.0425816,Wayward,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Olivier Giroud,14,111.9,38.9,0.11903284,Wayward,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Adrien Rabiot,20,108.9,44.3,0.04225832,Saved,Open Play,Head,False,True
+3857266,France 2–1 Denmark,Group Stage,France,Jules Koundé,29,109.0,56.2,0.02881258,Blocked,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Antoine Griezmann,32,118.2,23.1,0.010852635,Saved,Open Play,Left Foot,False,True
+3857266,France 2–1 Denmark,Group Stage,France,Aurélien Tchouaméni,32,99.7,39.1,0.054124165,Blocked,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Ousmane Dembélé,32,108.2,48.0,0.046849832,Blocked,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Adrien Rabiot,33,100.1,24.5,0.02230111,Blocked,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,Denmark,Andreas Cornelius,35,107.4,55.8,0.048269883,Off T,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Olivier Giroud,36,108.6,45.2,0.045027424,Off T,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,39,106.0,43.8,0.18605462,Off T,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,Denmark,Christian Eriksen,44,83.0,42.5,0.006951803,Off T,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,47,98.6,18.5,0.011081066,Blocked,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,55,104.1,30.1,0.03630777,Saved,Open Play,Left Foot,False,True
+3857266,France 2–1 Denmark,Group Stage,France,Antoine Griezmann,59,102.6,38.8,0.21733604,Off T,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,60,110.8,31.3,0.08505598,Goal,Open Play,Right Foot,True,True
+3857266,France 2–1 Denmark,Group Stage,Denmark,Joachim Andersen,67,112.2,43.9,0.082872435,Wayward,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,Denmark,Andreas Christensen,67,113.0,37.6,0.25384808,Goal,Open Play,Head,True,True
+3857266,France 2–1 Denmark,Group Stage,Denmark,Jesper Lindstrøm,72,107.4,33.0,0.18929456,Saved,Open Play,Right Foot,False,True
+3857266,France 2–1 Denmark,Group Stage,Denmark,Christian Eriksen,73,93.3,45.1,0.0264413,Blocked,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Aurélien Tchouaméni,77,113.7,37.7,0.22405402,Blocked,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Jules Koundé,78,110.7,40.7,0.106879756,Off T,Open Play,Head,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Adrien Rabiot,79,112.7,47.3,0.080693014,Off T,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,Denmark,Martin Braithwaite,80,110.0,45.1,0.23786028,Post,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,Denmark,Pierre-Emile Højbjerg,83,87.2,48.7,0.015153575,Off T,Open Play,Right Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,85,117.8,36.5,0.38353118,Goal,Open Play,Other,True,True
+3857266,France 2–1 Denmark,Group Stage,Denmark,Joachim Andersen,88,94.3,53.4,0.014218964,Blocked,Open Play,Left Foot,False,False
+3857266,France 2–1 Denmark,Group Stage,France,Kylian Mbappé,90,99.4,25.5,0.033781487,Saved,Open Play,Right Foot,False,True
+3857266,France 2–1 Denmark,Group Stage,Denmark,Joakim Maehle,96,87.5,42.4,0.013632962,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Joshua Kimmich,13,93.0,31.2,0.022911863,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Antonio Rüdiger,15,110.5,50.6,0.026021937,Off T,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Joshua Kimmich,19,96.9,39.6,0.05193508,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,25,99.7,29.6,0.042519,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,27,94.4,42.8,0.041637745,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,28,105.3,36.8,0.12241382,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,32,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,37,93.1,48.2,0.028658802,Blocked,Open Play,Left Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Jamal Musiala,37,108.5,28.3,0.03933018,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,40,93.3,39.0,0.031919174,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Joshua Kimmich,41,97.0,42.2,0.05113006,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Jamal Musiala,44,101.9,45.1,0.06614002,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Joshua Kimmich,48,100.3,40.5,0.047906045,Saved,Open Play,Left Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,48,114.3,29.9,0.21508263,Wayward,Open Play,Left Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Daizen Maeda,50,111.0,34.3,0.07710243,Off T,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,46,108.3,57.9,0.013327111,Post,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Daichi Kamada,49,103.3,47.4,0.06444196,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Jamal Musiala,50,107.2,41.0,0.15860753,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takuma Asano,57,114.7,49.4,0.06737846,Off T,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,İlkay Gündoğan,59,103.0,40.0,0.10696415,Post,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takuma Asano,60,106.4,25.8,0.06586899,Off T,Open Play,Left Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takuma Asano,65,106.9,26.5,0.029970925,Blocked,Open Play,Left Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Ko Itakura,66,112.6,51.3,0.034016185,Blocked,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takuma Asano,67,112.5,51.1,0.0360808,Blocked,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Jonas Hofmann,69,111.1,48.5,0.32657883,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,69,103.3,57.9,0.02483029,Saved,Open Play,Left Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,70,112.2,43.5,0.11167552,Saved,Open Play,Head,False,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Serge Gnabry,70,117.7,49.5,0.0550312,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Japan,Junya Ito,72,109.2,36.3,0.06845111,Saved,Open Play,Right Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Japan,Hiroki Sakai,72,113.4,46.3,0.28772855,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takumi Minamino,74,112.8,24.4,0.013784891,Saved,Open Play,Left Foot,False,True
+3857284,Germany 1–2 Japan,Group Stage,Japan,Ritsu Doan,74,112.1,41.5,0.4777511,Goal,Open Play,Left Foot,True,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Antonio Rüdiger,79,115.5,39.4,0.18550046,Off T,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Japan,Takuma Asano,82,117.7,50.2,0.02668418,Goal,Open Play,Right Foot,True,True
+3857284,Germany 1–2 Japan,Group Stage,Germany,Niclas Füllkrug,89,106.9,41.0,0.031593546,Off T,Open Play,Head,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Antonio Rüdiger,93,86.2,37.2,0.017847534,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Leon Goretzka,94,100.3,40.9,0.088851534,Off T,Open Play,Right Foot,False,False
+3857284,Germany 1–2 Japan,Group Stage,Germany,Niklas Süle,97,116.5,31.6,0.07610536,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Youssef Msakni,2,92.6,52.0,0.023819994,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Issam Jebali,4,114.0,54.8,0.014059674,Blocked,Open Play,Left Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Mohamed Dräger,10,93.4,44.5,0.033114884,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Youssef Msakni,11,114.7,29.6,0.04366076,Off T,Open Play,Head,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Kasper Dolberg,22,115.3,32.5,0.124032564,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Joachim Andersen,22,99.7,30.3,0.02765422,Saved,Open Play,Left Foot,False,True
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Pierre-Emile Højbjerg,32,95.4,19.0,0.008709067,Saved,Open Play,Right Foot,False,True
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Yassine Meriah,38,111.4,49.3,0.046073906,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Aïssa Laïdouni,38,115.0,52.2,0.06712157,Off T,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Issam Jebali,42,112.0,44.9,0.4656446,Saved,Open Play,Right Foot,False,True
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Ellyes Joris Skhiri,42,99.8,40.9,0.059586592,Off T,Open Play,Left Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Issam Jebali,45,112.1,47.5,0.11338296,Wayward,Open Play,Head,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Youssef Msakni,45,114.7,48.7,0.07208876,Off T,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Mohamed Dräger,50,92.2,49.3,0.020917216,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Ellyes Joris Skhiri,52,99.5,39.6,0.041405495,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Tunisia,Dylan Daniel Mahmoud Bronn,52,103.9,36.4,0.059058707,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Kasper Dolberg,56,117.0,35.0,0.25651878,Wayward,Open Play,Head,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Christian Eriksen,68,99.2,36.8,0.08509644,Saved,Open Play,Left Foot,False,True
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Andreas Christensen,69,117.4,37.0,0.27134958,Wayward,Open Play,Head,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Andreas Cornelius,69,118.2,43.9,0.5683119,Post,Open Play,Head,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Mathias Jensen,75,102.5,24.2,0.02872357,Off T,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Andreas Cornelius,91,114.4,36.8,0.14539434,Saved,Open Play,Head,False,True
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Joakim Maehle,91,95.0,30.2,0.028684001,Blocked,Open Play,Right Foot,False,False
+3857254,Denmark 0–0 Tunisia,Group Stage,Denmark,Andreas Cornelius,96,108.8,46.4,0.022084296,Saved,Open Play,Head,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Robert Lewandowski,6,110.6,37.2,0.056964528,Blocked,Open Play,Head,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Héctor Moreno,11,114.5,42.4,0.1766503,Off T,Open Play,Head,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Alexis Vega,25,113.2,34.6,0.098180205,Off T,Open Play,Head,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Alexis Vega,43,108.5,23.7,0.025630916,Blocked,Open Play,Left Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Jorge Sánchez,44,110.1,60.7,0.0069717234,Saved,Open Play,Right Foot,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Luis Chávez,46,92.1,56.9,0.008207667,Blocked,Open Play,Left Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Hirving Lozano,51,93.9,25.2,0.02413981,Saved,Open Play,Right Foot,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Robert Lewandowski,57,108.1,40.0,0.7835,Saved,Penalty,Right Foot,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Jakub Kamiński,57,113.4,48.8,0.10166888,Blocked,Open Play,Right Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Alexis Vega,59,107.9,29.9,0.0609232,Blocked,Open Play,Right Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Henry Martín,63,106.7,35.1,0.06434309,Saved,Open Play,Head,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Alexis Vega,65,102.7,60.6,0.009746956,Off T,Open Play,Right Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Alexis Vega,79,93.0,24.5,0.014301864,Off T,Open Play,Right Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Jakub Piotr Kiwior,81,113.3,41.7,0.12449861,Wayward,Open Play,Head,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Jakub Kamiński,93,109.4,24.8,0.04959144,Saved,Open Play,Left Foot,False,True
+3857265,Mexico 0–0 Poland,Group Stage,Poland,Grzegorz Krychowiak,95,90.9,48.7,0.02170277,Off T,Open Play,Right Foot,False,False
+3857265,Mexico 0–0 Poland,Group Stage,Mexico,Uriel Antuna,95,101.9,56.4,0.0400392,Saved,Open Play,Left Foot,False,True
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Ismaïla Sarr,3,113.5,52.4,0.07323868,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Nampalys Mendy,8,93.8,39.3,0.025409508,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Akram Afif,14,92.5,41.5,0.019990891,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Krépin Diatta,15,111.2,26.7,0.039485876,Saved,Open Play,Left Foot,False,True
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Famara Diédhiou,16,112.9,38.6,0.14633009,Off T,Open Play,Head,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Idrissa Gueye,23,95.4,52.7,0.029332913,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Abdelkarim Hassan,25,93.6,20.3,0.009041326,Blocked,Open Play,Left Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Boulaye Dia,40,107.2,33.3,0.23054633,Goal,Open Play,Right Foot,True,True
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Famara Diédhiou,47,112.5,48.1,0.038498666,Goal,Open Play,Head,True,True
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Abdelkarim Hassan,54,111.6,39.3,0.16305494,Blocked,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Ismaïla Sarr,56,112.1,27.2,0.030363984,Blocked,Open Play,Left Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Famara Diédhiou,58,108.8,48.6,0.05329144,Blocked,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Abdelkarim Hassan,60,89.5,22.9,0.006098259,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Almoez Ali,62,102.6,34.4,0.21404111,Saved,Open Play,Left Foot,False,True
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Ismaeel Mohammad,66,113.2,40.5,0.3277431,Saved,Open Play,Other,False,True
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Nampalys Mendy,68,107.3,53.4,0.067961,Off T,Open Play,Right Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Mohammed Muntari,77,110.1,38.7,0.072239615,Goal,Open Play,Head,True,True
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Boulaye Dia,80,107.1,38.8,0.052429575,Wayward,Open Play,Head,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Senegal,Bamba Dieng,83,107.8,45.3,0.11607656,Goal,Open Play,Right Foot,True,True
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Abdelkarim Hassan,88,95.4,52.1,0.023370314,Off T,Open Play,Left Foot,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Mohammed Muntari,89,110.5,39.5,0.06740542,Blocked,Open Play,Head,False,False
+3857301,Qatar 1–3 Senegal,Group Stage,Qatar,Almoez Ali,93,97.1,41.8,0.057101198,Off T,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Michy Batshuayi,0,91.7,31.8,0.017552001,Saved,Open Play,Right Foot,False,True
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Stephen Antunes Eustáquio,1,109.8,50.0,0.0798905,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,6,111.4,42.8,0.12589528,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Tajon Buchanan,7,106.2,35.6,0.05664073,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Alphonso Davies,10,108.1,40.1,0.7835,Saved,Penalty,Left Foot,False,True
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,10,110.4,34.6,0.20472932,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Richie Laryea,12,105.0,56.4,0.033730526,Off T,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,12,107.7,45.9,0.08619453,Blocked,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Junior Hoilett,15,104.9,53.9,0.04071268,Off T,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Michy Batshuayi,22,112.3,50.2,0.04664896,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Atiba Hutchinson,26,98.1,44.7,0.04634635,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Alistair Johnston,29,108.1,56.3,0.033541974,Saved,Open Play,Right Foot,False,True
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,30,104.4,37.5,0.08845105,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,31,111.1,34.1,0.088843234,Off T,Open Play,Head,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Michy Batshuayi,32,111.8,51.3,0.08121458,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Michy Batshuayi,43,109.0,36.1,0.24992359,Goal,Open Play,Left Foot,True,True
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Tajon Buchanan,46,112.6,42.5,0.29588586,Off T,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Stephen Antunes Eustáquio,48,100.5,38.5,0.048581414,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,47,111.7,36.9,0.120068476,Off T,Open Play,Head,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Stephen Antunes Eustáquio,49,97.8,52.7,0.03604073,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Tajon Buchanan,62,98.3,34.5,0.0587075,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Richie Laryea,66,101.7,54.6,0.022910038,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Michy Batshuayi,66,103.9,43.0,0.0897183,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Jonathan David,76,103.1,38.1,0.04574546,Blocked,Open Play,Left Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Cyle Larin,79,108.2,44.1,0.07200206,Saved,Open Play,Head,False,True
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Leander Dendoncker,84,112.5,43.5,0.08894938,Off T,Open Play,Head,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Kevin De Bruyne,85,96.6,39.5,0.061057936,Off T,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Cyle Larin,85,111.7,37.5,0.111036494,Off T,Open Play,Head,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Thomas Meunier,90,98.0,55.5,0.025805552,Blocked,Open Play,Right Foot,False,False
+3857268,Belgium 1–0 Canada,Group Stage,Belgium,Kevin De Bruyne,90,114.3,59.2,0.009170555,Saved,Open Play,Right Foot,False,True
+3857268,Belgium 1–0 Canada,Group Stage,Canada,Cyle Larin,91,111.1,36.1,0.06675813,Blocked,Open Play,Head,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Silvan Widmer,5,114.9,30.0,0.05117428,Off T,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Vinícius Júnior,26,112.1,34.0,0.21638125,Saved,Open Play,Right Foot,False,True
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Casemiro,27,94.3,39.7,0.023129713,Wayward,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Raphinha,30,90.1,46.2,0.02201561,Saved,Open Play,Left Foot,False,True
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Richarlison,31,104.2,41.2,0.022230485,Blocked,Open Play,Head,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Éder Militão,36,93.2,45.0,0.02857021,Blocked,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Thiago Silva,43,115.0,43.5,0.14148508,Blocked,Open Play,Head,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Djibril Sow,52,112.6,48.8,0.087867536,Blocked,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Ruben Vargas,53,104.3,26.2,0.029704679,Blocked,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Manuel Akanji,54,103.5,43.9,0.028123023,Wayward,Open Play,Head,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Djibril Sow,59,99.4,37.0,0.0625126,Blocked,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Switzerland,Edimilson Fernandes,59,97.4,42.8,0.029247057,Blocked,Open Play,Right Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Marquinhos,69,110.6,37.4,0.07814184,Wayward,Open Play,Head,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Richarlison,71,107.0,26.5,0.038312852,Blocked,Open Play,Left Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Bruno Guimarães,80,102.2,47.4,0.021188514,Saved,Open Play,Head,False,True
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Casemiro,82,106.3,29.4,0.068805926,Goal,Open Play,Right Foot,True,True
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Rodrygo,86,109.7,25.4,0.04824855,Saved,Open Play,Right Foot,False,True
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Antony,86,102.1,56.6,0.020722246,Off T,Open Play,Left Foot,False,False
+3857269,Brazil 1–0 Switzerland,Group Stage,Brazil,Rodrygo,93,105.8,41.8,0.19349767,Blocked,Open Play,Right Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Rodrigo De Paul,4,101.6,53.3,0.02377054,Blocked,Open Play,Right Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,21,96.6,50.3,0.037832856,Off T,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Steven Bergwijn,23,101.6,32.9,0.089517,Off T,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Rodrigo De Paul,32,97.6,42.3,0.049762752,Saved,Open Play,Right Foot,False,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Nahuel Molina,34,109.1,42.4,0.43442267,Goal,Open Play,Right Foot,True,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,39,104.0,32.2,0.03387043,Saved,Open Play,Right Foot,False,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,62,96.0,33.3,0.07608311,Off T,Free Kick,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,72,108.0,40.0,0.7835,Goal,Penalty,Left Foot,True,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Wout Weghorst,82,108.7,46.4,0.047416847,Goal,Open Play,Head,True,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Steven Berghuis,84,104.6,53.3,0.032538008,Blocked,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Denzel Dumfries,89,113.5,52.9,0.047394842,Off T,Open Play,Right Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Steven Berghuis,92,97.2,37.9,0.08017064,Blocked,Free Kick,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Wout Weghorst,100,111.8,39.9,0.21959315,Goal,Open Play,Left Foot,True,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,109,101.1,53.3,0.035418287,Off T,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Netherlands,Luuk de Jong,112,110.9,28.4,0.05290734,Blocked,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lautaro Martínez,113,109.5,45.9,0.2245604,Blocked,Open Play,Right Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Enzo Fernandez,114,94.2,43.8,0.032085553,Blocked,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Germán Pezzella,115,112.5,31.3,0.04452438,Off T,Open Play,Head,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lautaro Martínez,118,97.6,38.6,0.08241133,Saved,Open Play,Left Foot,False,True
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Lionel Messi,119,96.6,41.6,0.04201436,Blocked,Open Play,Left Foot,False,False
+3869321,Netherlands 2–2 Argentina,Quarter-finals,Argentina,Enzo Fernandez,120,97.2,49.3,0.038940463,Post,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,1,99.6,29.7,0.06331741,Saved,Open Play,Right Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Leon Goretzka,6,109.5,48.0,0.15352516,Wayward,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Thomas Müller,8,108.2,42.4,0.14610097,Off T,Open Play,Head,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Serge Gnabry,9,111.9,33.1,0.0895267,Goal,Open Play,Head,True,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Leon Goretzka,13,113.1,35.8,0.18187125,Saved,Open Play,Head,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Thomas Müller,20,111.6,41.1,0.069567084,Wayward,Open Play,Head,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Serge Gnabry,29,105.2,30.9,0.044056788,Blocked,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Joshua Kimmich,34,92.4,55.8,0.011488004,Saved,Open Play,Right Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,35,105.7,33.6,0.16202919,Off T,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Serge Gnabry,38,106.4,28.9,0.06251996,Off T,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Keysher Fuller Spence,41,107.3,51.1,0.14103858,Saved,Open Play,Right Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Leroy Sané,44,98.5,47.8,0.080942705,Off T,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Leroy Sané,45,99.5,44.5,0.078109905,Blocked,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Keysher Fuller Spence,51,108.9,54.5,0.050267275,Blocked,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Yeltsin Tejeda,51,97.2,48.9,0.042256437,Saved,Open Play,Right Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Serge Gnabry,54,100.7,26.9,0.029866349,Blocked,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Leroy Sané,54,91.0,39.6,0.02438984,Off T,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Kendall Waston,57,108.9,45.4,0.099276,Saved,Open Play,Head,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Yeltsin Tejeda,57,114.3,38.1,0.4798206,Goal,Open Play,Right Foot,True,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,60,111.2,28.5,0.082946144,Post,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,60,117.3,31.5,0.1066145,Off T,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Thomas Müller,61,106.3,47.2,0.05438086,Blocked,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Antonio Rüdiger,61,114.5,44.2,0.41498688,Post,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,66,100.6,27.6,0.037713535,Post,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Kai Havertz,66,107.3,35.1,0.110909514,Off T,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Juan Pablo Vargas,69,116.1,43.1,0.18427365,Saved,Open Play,Left Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Kai Havertz,72,109.3,42.6,0.4749194,Goal,Open Play,Right Foot,True,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Kai Havertz,73,102.8,36.0,0.14038351,Off T,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Niclas Füllkrug,75,115.2,44.6,0.36338806,Saved,Open Play,Right Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Costa Rica,Jewison Bennette,79,94.4,46.4,0.037811525,Off T,Open Play,Left Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,83,104.6,30.8,0.060394496,Off T,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Kai Havertz,84,113.1,37.6,0.31018513,Goal,Open Play,Left Foot,True,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Kai Havertz,85,110.4,27.0,0.11890341,Saved,Open Play,Left Foot,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Mario Götze,85,107.0,43.6,0.066507556,Saved,Open Play,Head,False,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Niclas Füllkrug,88,114.8,42.5,0.510154,Goal,Open Play,Left Foot,True,True
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Niclas Füllkrug,94,101.1,39.1,0.046867393,Blocked,Open Play,Right Foot,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Niclas Füllkrug,95,117.9,32.7,0.13407986,Off T,Open Play,Head,False,False
+3857292,Costa Rica 2–4 Germany,Group Stage,Germany,Jamal Musiala,99,107.5,40.3,0.085460834,Saved,Open Play,Left Foot,False,True
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Ritsu Doan,2,91.7,53.8,0.015573137,Wayward,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Costa Rica,Gerson Torres Barrantes,3,90.1,47.7,0.01353695,Wayward,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Costa Rica,Francisco Calvo,34,91.0,26.8,0.014244432,Blocked,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Costa Rica,Joel Campbell,34,101.0,29.1,0.051288527,Off T,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Wataru Endo,37,100.1,51.7,0.03132781,Blocked,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Hidemasa Morita,45,101.4,30.9,0.09737273,Saved,Open Play,Right Foot,False,True
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Takuma Asano,45,104.1,50.2,0.051375452,Blocked,Open Play,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Wataru Endo,47,95.2,41.1,0.042255066,Blocked,Open Play,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Takuma Asano,47,107.6,37.5,0.08747226,Saved,Open Play,Head,False,True
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Ko Itakura,49,105.0,40.0,0.07774679,Blocked,Open Play,Left Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Wataru Endo,49,103.1,34.1,0.04122181,Blocked,Open Play,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Yuki Soma,56,105.4,22.1,0.022210024,Wayward,Open Play,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Yuki Soma,62,98.1,35.7,0.08557594,Off T,Free Kick,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Daichi Kamada,71,101.2,43.2,0.10029054,Blocked,Free Kick,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Yuki Soma,71,95.7,44.3,0.027111016,Blocked,Open Play,Right Foot,False,False
+3857295,Japan 0–1 Costa Rica,Group Stage,Costa Rica,Keysher Fuller Spence,80,102.6,47.5,0.120298475,Goal,Open Play,Left Foot,True,True
+3857295,Japan 0–1 Costa Rica,Group Stage,Japan,Daichi Kamada,87,108.0,37.6,0.09400092,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Alexis MacAllister,4,92.4,30.0,0.024542088,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Rodrigo De Paul,7,99.2,47.9,0.062813334,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Ángel Di María,16,103.1,34.6,0.106800534,Off T,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Lionel Messi,22,108.0,40.0,0.7835,Goal,Penalty,Left Foot,True,True
+3869685,Argentina 3–3 France,Final,Argentina,Alexis MacAllister,31,94.3,23.5,0.010577817,Wayward,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Ángel Di María,35,111.8,32.1,0.30340916,Goal,Open Play,Left Foot,True,True
+3869685,Argentina 3–3 France,Final,Argentina,Rodrigo De Paul,48,103.3,52.3,0.040216275,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Julián Álvarez,58,110.5,24.9,0.05953379,Saved,Open Play,Left Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Lionel Messi,59,109.7,46.0,0.11555985,Off T,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,France,Randal Kolo,67,113.4,34.6,0.09618377,Off T,Open Play,Head,False,False
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,70,102.5,27.9,0.050644457,Off T,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Enzo Fernandez,71,98.9,32.2,0.041589838,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,79,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,80,104.8,30.1,0.1017027,Goal,Open Play,Right Foot,True,True
+3869685,Argentina 3–3 France,Final,Argentina,Enzo Fernandez,83,92.2,35.9,0.030159522,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,92,95.9,32.2,0.0324491,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,France,Adrien Rabiot,93,108.9,28.5,0.09333491,Saved,Open Play,Left Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Lionel Messi,96,96.2,40.9,0.0430315,Saved,Open Play,Left Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Alexis MacAllister,92,98.2,23.8,0.019259434,Off T,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,France,Youssouf Fofana,99,89.8,39.9,0.023031652,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Lautaro Martínez,104,108.8,45.3,0.23260574,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Gonzalo Montiel,104,96.3,49.4,0.020604363,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Lautaro Martínez,105,105.1,33.5,0.14029205,Off T,Open Play,Left Foot,False,False
+3869685,Argentina 3–3 France,Final,Argentina,Lionel Messi,106,103.6,55.8,0.024784861,Saved,Open Play,Left Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Lautaro Martínez,107,114.4,52.0,0.10407211,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Lionel Messi,107,116.6,43.0,0.48840353,Goal,Open Play,Right Foot,True,True
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,115,101.4,26.6,0.03075741,Blocked,Open Play,Right Foot,False,False
+3869685,Argentina 3–3 France,Final,France,Kylian Mbappé,117,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3869685,Argentina 3–3 France,Final,France,Randal Kolo,122,103.7,45.1,0.27751395,Saved,Open Play,Right Foot,False,True
+3869685,Argentina 3–3 France,Final,Argentina,Lautaro Martínez,122,110.8,41.6,0.10655013,Off T,Open Play,Head,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Joško Gvardiol,6,108.8,38.0,0.1243582,Goal,Open Play,Head,True,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Achraf Dari,8,115.6,39.0,0.4178385,Goal,Open Play,Head,True,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mislav Oršić,9,99.5,23.8,0.02730659,Off T,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Josip Stanišić,13,94.4,41.3,0.040524755,Off T,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mislav Oršić,17,104.9,38.8,0.11308218,Blocked,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Andrej Kramarić,17,111.3,34.8,0.13429043,Saved,Open Play,Head,False,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Luka Modrić,23,101.2,49.5,0.07012748,Saved,Open Play,Left Foot,False,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Sofiane Boufal,32,112.4,29.5,0.08611878,Off T,Open Play,Left Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Youssef En-Nesyri,36,117.8,48.9,0.04761149,Off T,Open Play,Head,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Hakim Ziyech,39,90.6,53.5,0.014617449,Off T,Open Play,Left Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mislav Oršić,41,106.5,21.3,0.013095795,Goal,Open Play,Right Foot,True,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Marko Livaja,46,90.5,39.5,0.02019975,Blocked,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mislav Oršić,46,100.8,24.2,0.028195048,Blocked,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mislav Oršić,54,87.5,26.6,0.0065055056,Off T,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Youssef En-Nesyri,64,110.6,40.5,0.072652236,Blocked,Open Play,Head,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Nikola Vlašić,70,90.9,36.9,0.03597725,Off T,Open Play,Right Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Youssef En-Nesyri,74,115.5,48.3,0.16040824,Saved,Open Play,Left Foot,False,True
+3869684,Croatia 2–1 Morocco,3rd Place Final,Croatia,Mateo Kovačić,86,110.3,29.2,0.23560598,Off T,Open Play,Left Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Youssef En-Nesyri,89,110.9,36.5,0.057190012,Blocked,Open Play,Head,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Hakim Ziyech,90,89.6,46.9,0.021768013,Off T,Open Play,Left Foot,False,False
+3869684,Croatia 2–1 Morocco,3rd Place Final,Morocco,Youssef En-Nesyri,95,113.6,43.4,0.1132524,Off T,Open Play,Head,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Granit Xhaka,0,96.0,38.8,0.036565553,Blocked,Open Play,Left Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Breel Embolo,0,113.1,40.7,0.35328916,Saved,Open Play,Left Foot,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Granit Xhaka,0,103.8,41.9,0.06952749,Saved,Open Play,Right Foot,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Nikola Milenković,4,112.2,36.8,0.08160872,Off T,Open Play,Head,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Andrija Živković,10,97.8,51.5,0.030001678,Post,Open Play,Left Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Dušan Vlahović,10,115.4,38.6,0.5168786,Saved,Open Play,Other,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Remo Freuler,13,107.8,35.9,0.09611784,Blocked,Open Play,Left Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Xherdan Shaqiri,19,107.5,50.6,0.06969889,Goal,Open Play,Left Foot,True,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Granit Xhaka,21,97.3,33.7,0.04476528,Saved,Open Play,Left Foot,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Dušan Vlahović,22,109.6,35.4,0.08628477,Saved,Open Play,Head,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Aleksandar Mitrović,25,108.3,38.6,0.06371751,Goal,Open Play,Head,True,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Xherdan Shaqiri,29,107.7,49.2,0.3934682,Off T,Open Play,Left Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Dušan Vlahović,34,106.2,31.8,0.15928414,Goal,Open Play,Left Foot,True,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Ruben Vargas,37,101.0,47.3,0.0683221,Blocked,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Breel Embolo,43,114.4,36.9,0.72697556,Goal,Open Play,Right Foot,True,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Aleksandar Mitrović,47,101.7,33.7,0.056521177,Wayward,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Remo Freuler,47,107.2,41.2,0.15381548,Goal,Open Play,Left Foot,True,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Fabian Schär,56,110.7,30.5,0.07925899,Blocked,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Breel Embolo,56,116.1,39.3,0.6647709,Off T,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Dušan Tadić,60,107.4,31.7,0.061684445,Off T,Open Play,Left Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Aleksandar Mitrović,70,106.2,25.8,0.03203667,Blocked,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Luka Jović,72,102.2,43.2,0.02594082,Blocked,Open Play,Head,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Manuel Akanji,81,99.4,52.7,0.030122569,Off T,Open Play,Right Foot,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Switzerland,Christian Fassnacht,88,105.3,28.9,0.31681746,Saved,Open Play,Right Foot,False,True
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Luka Jović,91,105.0,39.8,0.03223471,Off T,Open Play,Head,False,False
+3857256,Serbia 2–3 Switzerland,Group Stage,Serbia,Nemanja Radonjić,99,105.7,51.3,0.042810295,Off T,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Papu Gómez,16,98.2,20.1,0.011147299,Off T,Open Play,Right Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Australia,Harry Souttar,28,111.9,44.0,0.06809473,Blocked,Open Play,Head,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,34,104.2,48.9,0.06663833,Goal,Open Play,Left Foot,True,True
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,49,99.8,38.5,0.04517154,Saved,Open Play,Left Foot,False,True
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Julián Álvarez,56,110.4,50.3,0.28060678,Goal,Open Play,Right Foot,True,True
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,65,95.4,33.6,0.032841697,Off T,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Nicolás Tagliafico,74,103.2,24.9,0.05181273,Off T,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Australia,Craig Goodwin,76,98.2,22.6,0.013616442,Blocked,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Australia,Aziz Behich,80,110.6,33.2,0.07721693,Blocked,Open Play,Right Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Australia,Ajdin Hrustic,80,100.0,52.7,0.033247408,Off T,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lautaro Martínez,87,108.3,52.3,0.051439364,Off T,Open Play,Right Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lautaro Martínez,88,107.6,31.9,0.24890411,Off T,Open Play,Right Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lautaro Martínez,92,109.1,31.8,0.37209997,Saved,Open Play,Left Foot,False,True
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,92,104.6,52.2,0.055600196,Off T,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Exequiel Palacios,93,103.6,50.1,0.046685893,Blocked,Open Play,Right Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,93,102.2,40.0,0.032042325,Blocked,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lautaro Martínez,93,108.3,30.8,0.076142184,Saved,Open Play,Left Foot,False,True
+3869151,Argentina 2–1 Australia,Round of 16,Argentina,Lionel Messi,94,106.4,37.0,0.110446885,Wayward,Open Play,Left Foot,False,False
+3869151,Argentina 2–1 Australia,Round of 16,Australia,Garang Kuol,96,113.1,49.4,0.23394231,Saved,Open Play,Right Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Riley McGree,2,94.6,46.6,0.038979717,Blocked,Open Play,Left Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Jesper Lindstrøm,10,110.1,43.9,0.09599891,Blocked,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Mathias Jensen,10,112.7,56.3,0.019605601,Saved,Open Play,Right Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Andreas Skov Olsen,13,104.7,50.7,0.10059545,Off T,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Riley McGree,21,101.3,59.0,0.010740947,Saved,Open Play,Left Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Andreas Skov Olsen,24,109.6,50.5,0.09373255,Saved,Open Play,Right Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Christian Eriksen,28,102.9,25.6,0.035615563,Off T,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Mitchell Duke,31,102.5,36.7,0.037495814,Saved,Open Play,Head,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Mitchell Duke,40,98.3,20.9,0.010397313,Saved,Open Play,Right Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Aziz Behich,46,100.2,34.1,0.049681988,Blocked,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Jackson Irvine,47,109.6,30.8,0.17342122,Off T,Open Play,Left Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Andreas Skov Olsen,51,107.2,52.9,0.046983063,Blocked,Open Play,Left Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Mathew Leckie,59,105.7,31.5,0.11353828,Goal,Open Play,Left Foot,True,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Andreas Skov Olsen,68,103.1,49.3,0.070518844,Blocked,Open Play,Left Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Joachim Andersen,68,113.9,52.3,0.020115681,Off T,Open Play,Head,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Alexander Bah,76,99.4,54.5,0.019515881,Blocked,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Kasper Dolberg,76,105.2,39.6,0.049264465,Saved,Open Play,Left Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Jesper Lindstrøm,81,97.5,38.2,0.048889678,Blocked,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Australia,Keanu Baccus,84,97.7,47.5,0.035468098,Blocked,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Alexander Bah,87,108.6,57.0,0.03670106,Off T,Open Play,Right Foot,False,False
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Kasper Dolberg,94,117.6,33.5,0.08217044,Saved,Open Play,Right Foot,False,True
+3857257,Australia 1–0 Denmark,Group Stage,Denmark,Andreas Cornelius,94,116.6,51.6,0.017447446,Off T,Open Play,Head,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Neymar,12,119.2,0.7,0.00018,Saved,Corner,Right Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Neymar,20,91.6,29.2,0.020173745,Blocked,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Casemiro,20,84.3,34.2,0.0075366697,Saved,Open Play,Right Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Raphinha,34,105.3,49.2,0.119197816,Saved,Open Play,Left Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Serbia,Filip Mladenović,36,113.6,28.9,0.026318645,Off T,Open Play,Head,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Vinícius Júnior,40,113.2,27.0,0.09814694,Off T,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Raphinha,45,105.9,47.3,0.4224228,Saved,Open Play,Left Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Neymar,49,99.1,27.0,0.06281959,Blocked,Free Kick,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Thiago Silva,50,113.1,34.1,0.06673048,Blocked,Open Play,Head,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Richarlison,50,115.8,29.3,0.0399856,Blocked,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Danilo,53,95.9,54.2,0.016877638,Wayward,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Neymar,54,107.5,38.9,0.11246919,Off T,Open Play,Left Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Alex Sandro,59,88.0,32.0,0.021819543,Post,Open Play,Left Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Vinícius Júnior,59,105.0,20.1,0.009459062,Off T,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Vinícius Júnior,61,110.0,26.9,0.07986015,Saved,Open Play,Right Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Richarlison,61,114.5,41.8,0.568145,Goal,Open Play,Right Foot,True,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Vinícius Júnior,66,109.1,28.2,0.14253756,Off T,Open Play,Left Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Serbia,Strahinja Pavlović,68,111.8,38.5,0.098937765,Off T,Open Play,Head,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Serbia,Darko Lazović,69,95.6,50.9,0.018288644,Off T,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Richarlison,72,107.1,39.6,0.07569885,Goal,Open Play,Right Foot,True,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Casemiro,76,86.3,31.2,0.010592449,Blocked,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Casemiro,80,98.1,35.2,0.06218912,Post,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Rodrygo,81,98.8,27.3,0.03669105,Saved,Open Play,Right Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Fred,82,95.6,43.5,0.088970646,Saved,Open Play,Left Foot,False,True
+3857258,Brazil 2–0 Serbia,Group Stage,Serbia,Nikola Milenković,84,99.3,59.6,0.011090157,Blocked,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Rodrygo,86,101.5,30.6,0.051727816,Off T,Open Play,Right Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Brazil,Antony,87,99.4,59.1,0.009657804,Off T,Open Play,Left Foot,False,False
+3857258,Brazil 2–0 Serbia,Group Stage,Serbia,Nemanja Radonjić,97,93.8,21.5,0.008691933,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Fran Karačić,5,90.9,41.2,0.015131147,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Mohamed Dräger,20,92.0,42.5,0.029703999,Off T,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Mitchell Duke,22,110.1,32.5,0.04459479,Goal,Open Play,Head,True,True
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Mitchell Duke,26,110.7,34.3,0.03948435,Blocked,Open Play,Head,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Jackson Irvine,33,114.3,48.2,0.07543106,Off T,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,37,102.8,54.8,0.031703874,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Mohamed Dräger,40,109.2,48.4,0.21984866,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Mitchell Duke,43,104.9,40.6,0.040856346,Saved,Open Play,Head,False,True
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Fran Karačić,43,106.4,54.9,0.035070673,Blocked,Open Play,Left Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Fran Karačić,45,87.2,52.2,0.0052714557,Wayward,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,47,111.0,45.5,0.23484555,Off T,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Mitchell Duke,56,107.3,39.8,0.06400663,Wayward,Open Play,Head,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Ferjani Sassi,60,91.2,52.7,0.020219443,Off T,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,65,101.8,31.8,0.058604978,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,71,108.1,25.0,0.026706748,Saved,Open Play,Left Foot,False,True
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,71,95.6,42.2,0.048467197,Saved,Open Play,Right Foot,False,True
+3857288,Tunisia 0–1 Australia,Group Stage,Australia,Aaron Mooy,73,95.6,44.1,0.039191317,Off T,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Youssef Msakni,74,110.1,38.0,0.10262261,Off T,Open Play,Head,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Montassar Omar Talbi,83,89.6,34.9,0.012159805,Saved,Open Play,Right Foot,False,True
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Taha Yassine Khenissi,85,98.4,54.6,0.012915949,Blocked,Open Play,Right Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Naïm Sliti,86,109.8,47.4,0.1403044,Blocked,Open Play,Left Foot,False,False
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Wahbi Khazri,87,109.9,49.4,0.09264534,Saved,Open Play,Left Foot,False,True
+3857288,Tunisia 0–1 Australia,Group Stage,Tunisia,Wahbi Khazri,91,108.4,24.1,0.021421792,Blocked,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Idrissa Gueye,2,106.9,45.7,0.21271749,Off T,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Boulaye Dia,7,109.3,51.9,0.16839646,Off T,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Enner Valencia,9,86.9,40.9,0.021615954,Blocked,Free Kick,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Enner Valencia,9,95.9,37.7,0.02803523,Blocked,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Ismaïla Sarr,10,99.2,40.2,0.042373266,Blocked,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Iliman Ndiaye,11,99.7,52.9,0.02889044,Off T,Open Play,Left Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Ismaïla Sarr,23,104.1,25.5,0.023828069,Blocked,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Pape Gueye,24,93.0,36.3,0.025696881,Blocked,Open Play,Left Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Abdou Diallo,24,107.9,41.9,0.035411544,Wayward,Open Play,Head,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Pathé Ismaël Ciss,36,108.1,33.6,0.03057826,Off T,Open Play,Head,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Ismaïla Sarr,43,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Iliman Ndiaye,46,107.3,46.7,0.04522632,Blocked,Open Play,Left Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,José Cifuentes,48,93.8,51.3,0.025271386,Saved,Open Play,Right Foot,False,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Michael Estrada,56,106.7,38.8,0.042533338,Off T,Open Play,Head,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Félix Torres,66,113.7,42.7,0.15397952,Wayward,Open Play,Head,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Moisés Caicedo,66,117.2,35.6,0.5894187,Goal,Open Play,Right Foot,True,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Kalidou Koulibaly,69,114.3,46.0,0.23427999,Goal,Open Play,Right Foot,True,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Gonzalo Plata,75,107.0,42.8,0.058988493,Saved,Open Play,Left Foot,False,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Boulaye Dia,81,101.3,54.6,0.04455093,Off T,Open Play,Right Foot,False,False
+3857267,Ecuador 1–2 Senegal,Group Stage,Senegal,Pape Gueye,87,102.6,54.8,0.03201506,Saved,Open Play,Right Foot,False,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Jeremy Sarmiento,88,105.3,32.1,0.02928531,Saved,Open Play,Head,False,True
+3857267,Ecuador 1–2 Senegal,Group Stage,Ecuador,Jackson Porozo,93,105.9,34.3,0.052534856,Off T,Open Play,Head,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Matías Vecino,12,109.5,28.6,0.052239094,Saved,Open Play,Head,False,True
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Federico Valverde,18,103.9,35.4,0.05187739,Off T,Open Play,Left Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Hwang Ui-jo,33,108.9,42.7,0.323128,Off T,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Hwang In-Beom,38,89.7,57.6,0.007071261,Off T,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Diego Godín,42,110.0,40.4,0.054689027,Post,Open Play,Head,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,José Giménez,45,103.5,35.9,0.046385217,Off T,Open Play,Head,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Min Jae Kim,52,111.5,46.1,0.046898182,Wayward,Open Play,Other,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Rodrigo Bentancur,54,101.3,38.3,0.052523207,Blocked,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Federico Valverde,68,90.5,27.4,0.014167523,Wayward,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Edinson Cavani,68,106.6,47.5,0.03804607,Blocked,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Lee Kang-In,74,94.5,54.2,0.023162797,Blocked,Open Play,Left Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Cho Kyu-Sung,76,93.4,42.0,0.036145955,Off T,Open Play,Left Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Darwin Núñez,80,100.6,28.3,0.028178101,Off T,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Edinson Cavani,86,110.5,39.7,0.06689449,Off T,Open Play,Head,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,Uruguay,Federico Valverde,88,95.7,22.6,0.012294213,Post,Open Play,Right Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Son Heung-Min,89,93.8,36.6,0.0335565,Off T,Open Play,Left Foot,False,False
+3857287,Uruguay 0–0 South Korea,Group Stage,South Korea,Hwang In-Beom,93,94.9,26.7,0.023029828,Off T,Open Play,Left Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,João Félix,3,106.8,44.2,0.0989785,Saved,Open Play,Head,False,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Youssef En-Nesyri,5,112.7,39.4,0.117904566,Off T,Open Play,Head,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Raphaël Guerreiro,12,105.6,23.6,0.019215545,Blocked,Open Play,Left Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Hakim Ziyech,17,96.1,60.9,0.008206696,Off T,Open Play,Left Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Youssef En-Nesyri,25,106.7,39.8,0.043849364,Off T,Open Play,Head,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,João Félix,30,100.9,27.7,0.027014187,Blocked,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Selim Amallah,34,108.7,31.3,0.06053267,Off T,Open Play,Left Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Sofiane Boufal,34,97.0,27.8,0.03503226,Saved,Open Play,Right Foot,False,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,João Félix,38,102.2,35.4,0.060545366,Off T,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Youssef En-Nesyri,41,112.6,39.7,0.20030825,Goal,Open Play,Head,True,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Bruno Fernandes,44,108.0,62.3,0.0067060287,Post,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Yahia Attiyat allah,46,107.6,26.3,0.082217455,Off T,Open Play,Left Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Azzedine Ounahi,55,93.4,44.2,0.032880384,Off T,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Gonçalo Ramos,57,108.7,40.0,0.10594022,Off T,Open Play,Head,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,João Félix,60,109.7,29.4,0.026895314,Blocked,Open Play,Head,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Bruno Fernandes,63,101.0,35.5,0.057325892,Off T,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Bernardo Silva,70,109.8,35.9,0.10927713,Wayward,Open Play,Right Foot,False,False
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,João Félix,81,102.0,57.1,0.025960794,Saved,Open Play,Left Foot,False,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Cristiano Ronaldo,90,101.8,53.7,0.05699573,Saved,Open Play,Right Foot,False,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Morocco,Zakaria Aboukhlal,95,101.1,45.9,0.39109123,Saved,Open Play,Right Foot,False,True
+3869486,Morocco 1–0 Portugal,Quarter-finals,Portugal,Pepe,96,114.1,44.5,0.14926605,Off T,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,1,91.7,51.5,0.021919996,Off T,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Saleh Al Shehri,2,92.9,41.7,0.02182735,Saved,Open Play,Left Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Alexis Vega,2,101.6,38.9,0.3665275,Saved,Open Play,Right Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Mohammed Kanoo,7,113.0,54.1,0.047937077,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Mohammed Kanoo,12,96.3,33.5,0.073429175,Off T,Free Kick,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,22,92.7,40.4,0.01981399,Saved,Open Play,Left Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Orbelín Pineda,24,104.0,44.6,0.0489465,Saved,Open Play,Right Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Orbelín Pineda,26,115.8,34.5,0.30787364,Wayward,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,34,89.6,28.9,0.016814427,Blocked,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Jesús Gallardo,35,106.8,43.3,0.06430086,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,40,84.6,49.2,0.0066389865,Blocked,Free Kick,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Orbelín Pineda,40,102.0,45.2,0.062194254,Blocked,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Alexis Vega,44,106.1,29.3,0.04950449,Blocked,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,44,92.9,30.0,0.015146091,Blocked,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Ali Al-Hassan,50,110.1,45.6,0.10154356,Off T,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,46,85.5,41.2,0.018109906,Saved,Open Play,Left Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Hirving Lozano,46,102.7,19.2,0.0068189544,Blocked,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Henry Martín,46,116.7,40.2,0.28809994,Goal,Open Play,Left Foot,True,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Sultan Al Ghanam,49,115.8,46.7,0.21450256,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,51,86.7,41.3,0.024289701,Goal,Free Kick,Left Foot,True,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Sultan Al Ghanam,54,114.8,52.4,0.030311959,Off T,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Henry Martín,58,112.0,40.0,0.09122391,Wayward,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Abdulelah Al Amri,61,109.1,45.1,0.037819926,Off T,Open Play,Head,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Hirving Lozano,66,97.5,31.3,0.05300886,Saved,Open Play,Right Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Firas Albirakan,66,101.4,25.4,0.013105479,Blocked,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Henry Martín,69,108.8,34.9,0.22500646,Off T,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,72,87.3,40.5,0.027150616,Saved,Free Kick,Left Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Orbelín Pineda,75,100.5,32.9,0.08600338,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Uriel Antuna,77,109.4,35.9,0.26870292,Blocked,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Edson Álvarez,77,85.8,42.8,0.013687578,Saved,Open Play,Right Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Salem Al Dawsari,80,89.2,40.3,0.019886926,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Luis Chávez,82,101.0,46.0,0.057560198,Blocked,Open Play,Left Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Rogelio Funes Mori,88,98.8,37.4,0.06664524,Blocked,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Hirving Lozano,91,92.9,31.8,0.05359905,Saved,Free Kick,Right Foot,False,True
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Mexico,Hirving Lozano,93,101.9,28.3,0.06253588,Off T,Open Play,Right Foot,False,False
+3857260,Saudi Arabia 1–2 Mexico,Group Stage,Saudi Arabia,Salem Al Dawsari,94,110.9,45.2,0.51574713,Goal,Open Play,Right Foot,True,True
+3857264,Poland 0–2 Argentina,Group Stage,Poland,Krystian Bielik,4,100.7,41.3,0.061495427,Blocked,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,6,99.0,37.7,0.050872557,Saved,Open Play,Right Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Ángel Di María,8,94.3,40.5,0.034158513,Blocked,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,9,111.7,25.8,0.053250678,Saved,Open Play,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Marcos Acuña,16,107.0,27.9,0.05141401,Off T,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Poland,Kamil Glik,21,105.9,43.5,0.06557972,Wayward,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,27,110.8,47.7,0.1493578,Blocked,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Marcos Acuña,27,102.9,22.5,0.024708062,Off T,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Ángel Di María,32,119.6,79.2,0.00018,Saved,Corner,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Enzo Fernandez,34,91.6,39.7,0.024548035,Off T,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,35,110.4,27.6,0.19083758,Saved,Open Play,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,38,108.1,40.1,0.7835,Saved,Penalty,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,42,102.4,27.0,0.03720347,Saved,Open Play,Right Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Rodrigo De Paul,42,112.2,40.3,0.3152717,Saved,Open Play,Other,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Ángel Di María,43,106.7,58.4,0.010134568,Saved,Open Play,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Alexis MacAllister,45,106.0,46.7,0.107545994,Goal,Open Play,Right Foot,True,True
+3857264,Poland 0–2 Argentina,Group Stage,Poland,Kamil Glik,49,108.8,43.5,0.04381306,Off T,Open Play,Head,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Poland,Michał Skóraś,52,101.1,56.9,0.026707038,Blocked,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,52,105.8,28.4,0.06119443,Wayward,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,55,109.4,50.7,0.058334265,Wayward,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,55,107.7,41.5,0.15200824,Blocked,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Alexis MacAllister,60,106.0,46.0,0.13009955,Saved,Open Play,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,63,107.2,25.9,0.023947677,Blocked,Open Play,Left Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,66,106.0,33.5,0.10054177,Goal,Open Play,Right Foot,True,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lionel Messi,70,106.5,35.1,0.13232325,Saved,Open Play,Left Foot,False,True
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Julián Álvarez,72,106.1,52.6,0.18145993,Off T,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Lautaro Martínez,85,109.4,52.2,0.17955275,Off T,Open Play,Right Foot,False,False
+3857264,Poland 0–2 Argentina,Group Stage,Argentina,Nicolás Tagliafico,91,108.2,30.2,0.22421487,Saved,Open Play,Left Foot,False,True
+3857289,Argentina 2–0 Mexico,Group Stage,Mexico,César Montes,9,107.6,38.6,0.0988946,Off T,Open Play,Left Foot,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Argentina,Lautaro Martínez,39,112.7,39.5,0.13799548,Off T,Open Play,Head,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Mexico,Alexis Vega,44,92.4,35.8,0.05948228,Saved,Free Kick,Right Foot,False,True
+3857289,Argentina 2–0 Mexico,Group Stage,Mexico,Alexis Vega,49,92.8,23.0,0.0077116457,Off T,Open Play,Right Foot,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Mexico,Hirving Lozano,47,93.5,36.8,0.040303126,Blocked,Open Play,Right Foot,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Argentina,Lionel Messi,50,94.8,41.9,0.067327775,Off T,Free Kick,Left Foot,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Argentina,Lionel Messi,63,94.9,37.4,0.033919714,Goal,Open Play,Left Foot,True,True
+3857289,Argentina 2–0 Mexico,Group Stage,Argentina,Nahuel Molina,69,101.5,49.2,0.050896797,Off T,Open Play,Right Foot,False,False
+3857289,Argentina 2–0 Mexico,Group Stage,Argentina,Enzo Fernandez,86,106.5,22.8,0.035064373,Goal,Open Play,Right Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Breel Embolo,4,104.1,27.2,0.06137733,Blocked,Open Play,Left Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,16,111.3,27.5,0.10102074,Goal,Open Play,Left Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Otavinho,21,101.4,36.8,0.032515083,Saved,Open Play,Right Foot,False,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,21,100.7,32.2,0.072023906,Saved,Open Play,Right Foot,False,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Xherdan Shaqiri,29,87.2,46.1,0.023890225,Saved,Free Kick,Left Foot,False,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Pepe,32,114.3,40.0,0.12779379,Goal,Open Play,Head,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Remo Freuler,37,115.9,44.0,0.2948616,Saved,Open Play,Head,False,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Fabian Schär,37,99.9,53.7,0.024413843,Off T,Open Play,Right Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,42,107.5,33.4,0.31703457,Saved,Open Play,Left Foot,False,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Raphaël Guerreiro,47,96.0,25.0,0.021823613,Off T,Open Play,Left Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,48,114.4,35.1,0.09938955,Wayward,Open Play,Head,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,50,115.8,44.4,0.5086819,Goal,Open Play,Left Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,João Félix,52,103.5,26.4,0.043932665,Blocked,Open Play,Left Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Pepe,53,110.8,35.6,0.05800441,Wayward,Open Play,Head,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Raphaël Guerreiro,54,110.9,32.4,0.35848966,Goal,Open Play,Left Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Manuel Akanji,57,118.7,35.4,0.6688656,Goal,Open Play,Right Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Xherdan Shaqiri,65,101.7,63.9,0.007870479,Wayward,Open Play,Left Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Gonçalo Ramos,66,112.6,45.8,0.46699882,Goal,Open Play,Right Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Denis Zakaria,70,97.5,36.4,0.04188712,Blocked,Open Play,Right Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Cristiano Ronaldo,75,88.9,44.9,0.028790973,Blocked,Free Kick,Right Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Breel Embolo,79,102.1,39.2,0.032889098,Blocked,Open Play,Right Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Granit Xhaka,80,113.2,34.5,0.0836758,Off T,Open Play,Head,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Switzerland,Noah Okafor,84,108.4,23.1,0.032096077,Blocked,Open Play,Right Foot,False,False
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Rafael Leão,91,105.0,21.7,0.010257767,Goal,Open Play,Right Foot,True,True
+3869254,Portugal 6–1 Switzerland,Round of 16,Portugal,Rúben Dias,93,108.0,41.9,0.03750256,Blocked,Open Play,Head,False,False
+3869118,England 3–0 Senegal,Round of 16,England,John Stones,20,113.5,45.4,0.08366814,Off T,Open Play,Other,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Boulaye Dia,21,108.6,42.7,0.05336251,Blocked,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Ismaïla Sarr,22,115.7,40.5,0.629174,Off T,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Boulaye Dia,31,112.8,28.9,0.0358749,Saved,Open Play,Left Foot,False,True
+3869118,England 3–0 Senegal,Round of 16,England,Jordan Henderson,38,107.6,38.0,0.13174866,Goal,Open Play,Left Foot,True,True
+3869118,England 3–0 Senegal,Round of 16,England,Harry Kane,40,110.0,39.3,0.18422936,Off T,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,England,Harry Kane,47,104.3,50.7,0.20664306,Goal,Open Play,Right Foot,True,True
+3869118,England 3–0 Senegal,Round of 16,Senegal,Pape Sarr,49,92.8,35.2,0.018660808,Off T,Open Play,Left Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,England,Bukayo Saka,53,107.7,53.4,0.03518777,Off T,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,England,Harry Kane,55,90.5,27.1,0.015214441,Saved,Open Play,Right Foot,False,True
+3869118,England 3–0 Senegal,Round of 16,England,Bukayo Saka,56,111.0,35.9,0.21738943,Goal,Open Play,Left Foot,True,True
+3869118,England 3–0 Senegal,Round of 16,Senegal,Pape Sarr,68,89.0,36.2,0.013223637,Blocked,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Pape Sarr,73,87.8,49.9,0.021199826,Off T,Free Kick,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Ismaïla Sarr,83,111.6,39.3,0.107544675,Off T,Open Play,Head,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Pape Gueye,86,96.7,52.4,0.027956013,Blocked,Open Play,Left Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Pape Sarr,88,93.1,38.3,0.032847784,Off T,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,England,Marcus Rashford,90,117.8,45.9,0.1459426,Off T,Open Play,Right Foot,False,False
+3869118,England 3–0 Senegal,Round of 16,Senegal,Bamba Dieng,92,94.0,54.7,0.03296228,Blocked,Free Kick,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Dejan Lovren,15,115.0,27.7,0.014029023,Off T,Open Play,Head,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Enzo Fernandez,24,93.1,36.9,0.027808638,Saved,Open Play,Right Foot,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Ivan Perišić,30,106.9,23.2,0.034139045,Off T,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Lionel Messi,33,108.0,40.0,0.7835,Goal,Penalty,Left Foot,True,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Julián Álvarez,38,112.7,37.4,0.36172354,Goal,Open Play,Right Foot,True,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Rodrigo De Paul,40,95.6,51.4,0.027667157,Blocked,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Alexis MacAllister,41,113.5,32.8,0.0684051,Saved,Open Play,Head,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Luka Modrić,44,92.9,46.3,0.026162526,Blocked,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Mario Pašalić,44,119.4,45.8,0.07864248,Off T,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Leandro Paredes,48,85.0,44.8,0.014370957,Saved,Open Play,Right Foot,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Lionel Messi,57,112.7,30.1,0.10581502,Saved,Open Play,Left Foot,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Mislav Oršić,57,98.4,22.8,0.021008598,Blocked,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Dejan Lovren,61,112.7,40.1,0.09374543,Blocked,Open Play,Head,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Julián Álvarez,68,113.3,45.4,0.33366448,Goal,Open Play,Right Foot,True,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Ivan Perišić,72,82.3,43.9,0.00752127,Saved,Free Kick,Left Foot,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Ivan Perišić,74,85.8,21.3,0.0058680973,Off T,Open Play,Left Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Mislav Oršić,77,108.0,21.9,0.011610668,Off T,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Argentina,Alexis MacAllister,82,107.1,46.7,0.14140838,Off T,Open Play,Right Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Lovro Majer,88,96.0,35.4,0.044770177,Saved,Open Play,Left Foot,False,True
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Nikola Vlašić,92,103.6,52.3,0.049129687,Off T,Open Play,Left Foot,False,False
+3869519,Argentina 3–0 Croatia,Semi-finals,Croatia,Dejan Lovren,94,89.3,36.5,0.02342664,Off T,Open Play,Left Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Philip Foden,3,100.2,40.0,0.022691524,Blocked,Open Play,Left Foot,False,False
+3869354,England 1–2 France,Quarter-finals,France,Olivier Giroud,10,110.3,38.2,0.21537142,Saved,Open Play,Head,False,True
+3869354,England 1–2 France,Quarter-finals,France,Aurélien Tchouaméni,16,92.5,43.5,0.027870113,Goal,Open Play,Right Foot,True,True
+3869354,England 1–2 France,Quarter-finals,England,Luke Shaw,20,98.0,53.2,0.05589417,Saved,Free Kick,Left Foot,False,True
+3869354,England 1–2 France,Quarter-finals,England,Harry Kane,21,113.6,52.2,0.07522586,Saved,Open Play,Right Foot,False,True
+3869354,England 1–2 France,Quarter-finals,England,Jude Bellingham,21,117.3,35.7,0.21807538,Blocked,Open Play,Head,False,False
+3869354,England 1–2 France,Quarter-finals,England,Harry Kane,28,96.7,57.1,0.018916143,Saved,Open Play,Right Foot,False,True
+3869354,England 1–2 France,Quarter-finals,France,Kylian Mbappé,38,107.9,32.9,0.06798863,Off T,Open Play,Left Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Jude Bellingham,46,101.1,48.0,0.046397094,Saved,Open Play,Right Foot,False,True
+3869354,England 1–2 France,Quarter-finals,England,Harry Maguire,47,116.2,30.9,0.048588943,Blocked,Open Play,Head,False,False
+3869354,England 1–2 France,Quarter-finals,England,Jordan Henderson,51,101.1,56.4,0.017202334,Blocked,Open Play,Right Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Harry Kane,53,108.1,40.1,0.7835,Goal,Penalty,Right Foot,True,True
+3869354,England 1–2 France,Quarter-finals,France,Adrien Rabiot,54,95.6,43.2,0.06667264,Saved,Open Play,Left Foot,False,True
+3869354,England 1–2 France,Quarter-finals,England,Bukayo Saka,59,103.2,47.6,0.07073746,Saved,Open Play,Right Foot,False,True
+3869354,England 1–2 France,Quarter-finals,France,Ousmane Dembélé,60,99.5,53.8,0.030820057,Blocked,Open Play,Left Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Harry Kane,61,99.1,53.8,0.029508974,Saved,Open Play,Left Foot,False,True
+3869354,England 1–2 France,Quarter-finals,England,Harry Maguire,69,109.1,35.0,0.07199757,Post,Open Play,Head,False,False
+3869354,England 1–2 France,Quarter-finals,England,Luke Shaw,70,108.4,21.7,0.006951497,Blocked,Open Play,Left Foot,False,False
+3869354,England 1–2 France,Quarter-finals,France,Olivier Giroud,74,112.9,47.0,0.075690374,Off T,Open Play,Head,False,False
+3869354,England 1–2 France,Quarter-finals,France,Olivier Giroud,76,111.3,40.5,0.20829616,Saved,Open Play,Left Foot,False,True
+3869354,England 1–2 France,Quarter-finals,France,Olivier Giroud,77,114.7,36.4,0.14665264,Goal,Open Play,Head,True,True
+3869354,England 1–2 France,Quarter-finals,England,Harry Kane,83,108.1,40.1,0.7835,Off T,Penalty,Right Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Mason Mount,88,89.5,44.7,0.024138648,Off T,Open Play,Right Foot,False,False
+3869354,England 1–2 France,Quarter-finals,England,Marcus Rashford,100,97.5,34.1,0.07922588,Off T,Free Kick,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Kylian Mbappé,4,108.5,47.3,0.09459595,Blocked,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Theo Hernández,4,115.7,31.5,0.0979349,Goal,Open Play,Left Foot,True,True
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Azzedine Ounahi,9,95.5,26.2,0.01924696,Saved,Open Play,Right Foot,False,True
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Hakim Ziyech,16,106.4,54.6,0.06111174,Off T,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Olivier Giroud,16,105.4,26.8,0.09802507,Post,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Achraf Hakimi,25,95.3,53.3,0.020597277,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Aurélien Tchouaméni,32,96.0,32.9,0.040336993,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Olivier Giroud,34,111.9,44.5,0.060999498,Blocked,Open Play,Head,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Youssouf Fofana,34,104.3,46.5,0.061363008,Off T,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Kylian Mbappé,35,111.7,30.9,0.15100354,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Olivier Giroud,35,105.8,42.5,0.2635025,Off T,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Raphaël Varane,39,113.7,47.9,0.07554505,Off T,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Jawad El Yamiq,43,107.2,33.9,0.06408756,Saved to Post,Open Play,Right Foot,False,True
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Sofiane Boufal,43,96.7,37.2,0.035300843,Off T,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Jules Koundé,46,94.0,50.6,0.01766911,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Yahia Attiyat allah,52,109.8,35.1,0.24936919,Wayward,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Sofyan Amrabat,53,92.5,36.0,0.020691318,Off T,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Marcus Thuram,70,114.5,45.5,0.115658596,Off T,Open Play,Head,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Youssouf Fofana,73,111.6,27.3,0.040043775,Off T,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Kylian Mbappé,78,107.2,29.8,0.033641826,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,France,Randal Kolo,78,115.6,43.8,0.8521293,Goal,Open Play,Right Foot,True,True
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Zakaria Aboukhlal,85,107.1,41.0,0.024939176,Wayward,Open Play,Head,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Abde Ezzalzouli,92,106.9,32.9,0.05950738,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Azzedine Ounahi,92,103.0,48.2,0.06379096,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Azzedine Ounahi,93,98.1,48.0,0.03807111,Blocked,Open Play,Left Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Azzedine Ounahi,93,108.6,44.6,0.067406826,Blocked,Open Play,Right Foot,False,False
+3869552,France 2–0 Morocco,Semi-finals,Morocco,Abderrazak Hamdallah,93,115.9,37.4,0.50624365,Blocked,Open Play,Other,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Vinícius Júnior,4,98.8,20.8,0.008460451,Saved,Open Play,Right Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Ivan Perišić,12,112.2,43.2,0.19016835,Off T,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Andrej Kramarić,18,99.5,27.0,0.026674595,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Vinícius Júnior,19,103.0,34.8,0.06970771,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Neymar,20,107.2,24.9,0.025347186,Saved,Open Play,Right Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Casemiro,22,96.4,49.8,0.030699778,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Ivan Perišić,29,100.8,20.7,0.012010745,Off T,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Neymar,41,100.9,17.2,0.008240742,Saved,Free Kick,Right Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Ivan Perišić,50,111.9,41.4,0.11005159,Wayward,Open Play,Head,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Neymar,54,112.6,29.0,0.16692519,Saved,Open Play,Left Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Casemiro,65,89.1,28.8,0.026057322,Blocked,Free Kick,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Lucas Paquetá,65,111.6,34.5,0.26807922,Saved,Open Play,Left Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Éder Militão,66,101.4,53.7,0.04353941,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Andrej Kramarić,70,101.2,57.3,0.030721588,Blocked,Open Play,Left Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Neymar,75,114.1,28.2,0.12963046,Saved,Open Play,Left Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Lucas Paquetá,79,104.6,32.8,0.092192985,Saved,Open Play,Left Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Richarlison,81,109.4,41.0,0.067200735,Off T,Open Play,Head,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Nikola Vlašić,84,107.0,54.2,0.026884926,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Éder Militão,85,102.5,50.1,0.04975106,Blocked,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Éder Militão,85,104.7,46.8,0.06132018,Blocked,Open Play,Left Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Antony,93,94.6,56.8,0.013999131,Saved,Open Play,Left Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Pedro,91,112.9,49.4,0.057022728,Wayward,Open Play,Head,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Pedro,100,107.2,38.8,0.113875866,Saved,Open Play,Right Foot,False,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Marcelo Brozović,102,103.7,46.4,0.12467693,Off T,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Danilo,104,96.9,22.6,0.0154907415,Off T,Open Play,Right Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Neymar,105,116.5,47.2,0.4674385,Goal,Open Play,Right Foot,True,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Bruno Petković,116,103.2,38.6,0.09977819,Goal,Open Play,Left Foot,True,True
+3869420,Croatia 1–1 Brazil,Quarter-finals,Croatia,Lovro Majer,119,91.5,55.0,0.01192189,Off T,Open Play,Left Foot,False,False
+3869420,Croatia 1–1 Brazil,Quarter-finals,Brazil,Casemiro,121,114.0,31.0,0.10135116,Saved,Open Play,Left Foot,False,True
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Achraf Hakimi,11,93.4,27.5,0.041958537,Off T,Free Kick,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Marco Asensio Willemsen,25,115.0,25.0,0.025564773,Off T,Open Play,Left Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Noussair Mazraoui,32,89.4,37.7,0.023416335,Saved,Open Play,Left Foot,False,True
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Nayef Aguerd,41,113.2,43.7,0.25141555,Off T,Open Play,Head,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Daniel Olmo,54,110.2,12.6,0.0073576192,Saved,Open Play,Right Foot,False,True
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Daniel Olmo,77,97.2,31.3,0.031760626,Off T,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Álvaro Morata,81,118.8,50.9,0.017266534,Wayward,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Walid Cheddira,85,110.6,40.8,0.119254045,Saved Off Target,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Álvaro Morata,90,115.3,51.1,0.049165204,Off T,Open Play,Head,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Aymeric Laporte,95,107.7,38.8,0.04145577,Blocked,Open Play,Head,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Alejandro Balde,99,112.5,28.9,0.077706024,Blocked,Open Play,Left Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Rodri,102,79.9,46.8,0.0056476467,Off T,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Walid Cheddira,103,109.7,47.1,0.1301347,Saved,Open Play,Left Foot,False,True
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Marcos Llorente,106,100.3,53.3,0.024551911,Blocked,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Morocco,Abdelhamid Sabiri,105,59.6,39.7,0.004195439,Off T,Open Play,Right Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Sergio Busquets,120,102.6,47.1,0.0709334,Blocked,Open Play,Left Foot,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Carlos Soler,121,104.3,44.4,0.039505202,Blocked,Open Play,Head,False,False
+3869220,Morocco 0–0 Spain,Round of 16,Spain,Pablo Sarabia,122,117.8,48.1,0.10407615,Post,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Shogo Taniguchi,2,112.6,38.8,0.11361285,Off T,Open Play,Head,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ivan Perišić,7,116.7,29.0,0.05943511,Saved,Open Play,Right Foot,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Andrej Kramarić,7,114.5,38.3,0.17775308,Blocked,Open Play,Left Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Joško Gvardiol,23,101.1,43.6,0.061746918,Off T,Open Play,Left Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Daichi Kamada,40,114.1,28.8,0.08994952,Wayward,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Daizen Maeda,42,113.5,44.3,0.45874894,Goal,Open Play,Left Foot,True,True
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Daichi Kamada,45,94.7,38.3,0.03904812,Off T,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Mateo Kovačić,48,100.1,47.1,0.02993381,Off T,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Hidemasa Morita,49,98.2,36.8,0.041140273,Wayward,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ivan Perišić,54,106.0,34.1,0.02684295,Goal,Open Play,Head,True,True
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Wataru Endo,56,94.4,52.9,0.019910807,Saved,Open Play,Right Foot,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Wataru Endo,59,90.0,41.9,0.020528734,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Hidemasa Morita,59,97.8,36.3,0.052081473,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Ritsu Doan,59,100.4,43.7,0.056113943,Saved,Open Play,Left Foot,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Luka Modrić,62,96.3,48.9,0.031055314,Saved,Open Play,Right Foot,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ivan Perišić,65,95.5,48.2,0.018378427,Blocked,Open Play,Left Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Andrej Kramarić,65,98.9,23.8,0.018472007,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ante Budimir,65,109.5,45.1,0.10111922,Off T,Open Play,Head,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Mario Pašalić,73,107.5,44.5,0.035465226,Off T,Open Play,Head,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ivan Perišić,76,98.1,30.4,0.030077945,Blocked,Open Play,Left Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Mario Pašalić,85,110.5,42.8,0.052599985,Off T,Open Play,Head,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Shogo Taniguchi,91,114.6,49.3,0.0608747,Off T,Open Play,Head,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Ivan Perišić,100,107.2,34.1,0.07439702,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Borna Barišić,100,95.1,31.3,0.015196718,Blocked,Open Play,Left Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Kaoru Mitoma,104,99.8,34.6,0.054134306,Saved,Open Play,Right Foot,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Wataru Endo,104,95.7,37.1,0.02615668,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Japan,Takumi Minamino,104,102.6,40.3,0.03667642,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Marko Livaja,113,112.8,47.7,0.047236525,Saved,Open Play,Head,False,True
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Mislav Oršić,120,106.8,19.7,0.009676031,Blocked,Open Play,Right Foot,False,False
+3869219,Japan 1–1 Croatia,Round of 16,Croatia,Lovro Majer,120,99.8,33.0,0.06501122,Off T,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Neymar,6,111.3,44.4,0.083826184,Wayward,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Vinícius Júnior,6,110.0,29.9,0.13057186,Goal,Open Play,Right Foot,True,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Neymar,12,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang Hee-Chan,16,90.4,28.0,0.016991004,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang In-Beom,16,91.7,46.4,0.026666574,Off T,Open Play,Left Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang Hee-Chan,24,82.7,33.0,0.0058221314,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Richarlison,28,110.7,43.3,0.5379008,Goal,Open Play,Left Foot,True,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Raphinha,30,94.7,30.7,0.02589997,Off T,Open Play,Left Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang Hee-Chan,31,119.3,30.8,0.017834108,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Casemiro,33,93.6,43.2,0.029429397,Off T,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Lucas Paquetá,35,110.0,44.8,0.08633457,Goal,Open Play,Right Foot,True,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Lucas Paquetá,45,112.0,49.2,0.2577265,Saved,Open Play,Left Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Richarlison,48,110.3,51.6,0.2681848,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Neymar,48,111.4,42.3,0.26870713,Off T,Open Play,Other,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Raphinha,45,104.3,51.7,0.04634087,Saved,Open Play,Left Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Son Heung-Min,46,105.3,27.9,0.1490943,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Raphinha,53,110.4,50.6,0.080992505,Saved,Open Play,Left Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Vinícius Júnior,53,110.4,26.8,0.05640157,Off T,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Raphinha,57,91.0,34.0,0.04321825,Blocked,Free Kick,Left Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Raphinha,61,114.6,51.1,0.16284284,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang Hee-Chan,67,106.8,51.7,0.04724954,Saved,Open Play,Right Foot,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Paik Seung-Ho,75,93.7,39.8,0.023081098,Goal,Open Play,Left Foot,True,True
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Dani Alves,88,111.1,53.1,0.027839905,Blocked,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Bremer,89,116.1,41.0,0.34439024,Saved,Open Play,Head,False,True
+3869253,Brazil 4–1 South Korea,Round of 16,South Korea,Hwang Hee-Chan,89,112.9,53.6,0.058088522,Off T,Open Play,Right Foot,False,False
+3869253,Brazil 4–1 South Korea,Round of 16,Brazil,Dani Alves,92,88.4,46.1,0.027316706,Off T,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Raphaël Varane,3,114.3,40.0,0.1462742,Off T,Open Play,Head,False,False
+3869152,France 3–1 Poland,Round of 16,France,Ousmane Dembélé,10,116.0,51.8,0.040392082,Blocked,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Aurélien Tchouaméni,12,87.8,30.9,0.017185243,Saved,Open Play,Right Foot,False,True
+3869152,France 3–1 Poland,Round of 16,France,Ousmane Dembélé,16,99.2,46.7,0.07651916,Saved,Open Play,Left Foot,False,True
+3869152,France 3–1 Poland,Round of 16,Poland,Robert Lewandowski,20,92.5,43.3,0.03323787,Off T,Open Play,Left Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Jules Koundé,21,94.5,56.1,0.01624438,Saved,Open Play,Right Foot,False,True
+3869152,France 3–1 Poland,Round of 16,Poland,Przemysław Frankowski,24,109.5,24.7,0.043646414,Blocked,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Robert Lewandowski,32,94.8,26.6,0.042642463,Blocked,Free Kick,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Matty Cash,33,99.1,56.2,0.023505978,Wayward,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Kylian Mbappé,34,111.5,24.9,0.047962468,Saved,Open Play,Left Foot,False,True
+3869152,France 3–1 Poland,Round of 16,France,Olivier Giroud,35,105.2,44.5,0.046657436,Wayward,Open Play,Left Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Piotr Zieliński,37,106.6,41.6,0.13905574,Saved,Open Play,Right Foot,False,True
+3869152,France 3–1 Poland,Round of 16,Poland,Piotr Zieliński,37,111.4,43.9,0.2098723,Blocked,Open Play,Left Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Jakub Kamiński,37,114.1,50.5,0.07224382,Blocked,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Olivier Giroud,43,105.6,32.3,0.28635955,Goal,Open Play,Left Foot,True,True
+3869152,France 3–1 Poland,Round of 16,Poland,Jakub Kamiński,45,108.8,51.7,0.03898995,Blocked,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Antoine Griezmann,47,106.9,63.2,0.008752431,Saved,Free Kick,Left Foot,False,True
+3869152,France 3–1 Poland,Round of 16,France,Theo Hernández,47,98.0,38.5,0.032634486,Off T,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Kylian Mbappé,55,102.0,26.7,0.02943752,Blocked,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Kylian Mbappé,62,110.2,26.3,0.054253228,Wayward,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Olivier Giroud,65,115.8,46.8,0.12365263,Off T,Open Play,Left Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Kamil Glik,70,114.0,32.0,0.041239407,Off T,Open Play,Head,False,False
+3869152,France 3–1 Poland,Round of 16,France,Kylian Mbappé,73,104.8,28.6,0.08738103,Goal,Open Play,Right Foot,True,True
+3869152,France 3–1 Poland,Round of 16,France,Theo Hernández,80,105.0,33.4,0.069959894,Off T,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,France,Kylian Mbappé,90,106.2,25.2,0.042708755,Goal,Open Play,Right Foot,True,True
+3869152,France 3–1 Poland,Round of 16,Poland,Robert Lewandowski,91,105.6,48.7,0.061160102,Wayward,Open Play,Right Foot,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Robert Lewandowski,93,113.0,40.0,0.10443308,Blocked,Open Play,Head,False,False
+3869152,France 3–1 Poland,Round of 16,Poland,Robert Lewandowski,98,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Christian Pulisic,2,107.1,34.9,0.3196895,Saved,Open Play,Left Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Memphis Depay,9,104.9,43.7,0.16183718,Goal,Open Play,Right Foot,True,True
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Daley Blind,17,103.6,30.6,0.07337185,Off T,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Memphis Depay,20,106.1,62.1,0.008920797,Off T,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Timothy Weah,42,97.5,53.3,0.028368456,Saved,Open Play,Right Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Sergiño Dest,43,105.2,46.2,0.07418261,Blocked,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Daley Blind,45,107.6,38.5,0.2502288,Goal,Open Play,Right Foot,True,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Weston McKennie,48,109.1,36.5,0.03899759,Wayward,Open Play,Head,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Tim Ream,48,116.5,37.1,0.2582279,Saved,Open Play,Left Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Weston McKennie,48,108.4,37.0,0.06857926,Wayward,Open Play,Head,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Sergiño Dest,50,100.9,57.3,0.01609117,Wayward,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Christian Pulisic,52,98.4,27.3,0.040512722,Saved,Open Play,Right Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Weston McKennie,53,102.1,35.0,0.053084504,Off T,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Cody Gakpo,60,100.0,50.7,0.053106464,Blocked,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Memphis Depay,60,98.6,47.0,0.046333984,Saved,Open Play,Right Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Timothy Weah,62,99.1,51.0,0.04334448,Blocked,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Virgil van Dijk,70,111.8,41.3,0.08036702,Off T,Open Play,Head,False,False
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Teun Koopmeiners,70,94.5,37.8,0.04472613,Saved,Open Play,Left Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Memphis Depay,70,113.1,34.4,0.27671057,Saved,Open Play,Head,False,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Giovanni Reyna,73,98.9,49.9,0.042619057,Off T,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Haji Wright,74,115.2,55.6,0.046546377,Blocked,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Haji Wright,75,115.1,45.2,0.3636808,Goal,Open Play,Right Foot,True,True
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Steven Bergwijn,77,109.5,32.8,0.25042096,Off T,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Christian Pulisic,78,99.5,25.3,0.031073315,Saved,Open Play,Left Foot,False,True
+3869117,Netherlands 3–1 United States,Round of 16,Netherlands,Denzel Dumfries,80,113.5,44.3,0.23592436,Goal,Open Play,Left Foot,True,True
+3869117,Netherlands 3–1 United States,Round of 16,United States,Walker Zimmerman,85,107.2,43.0,0.05674074,Off T,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Giovanni Reyna,88,103.1,51.4,0.043403003,Blocked,Open Play,Left Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Yunus Dimoara Musah,93,103.9,44.2,0.054460905,Blocked,Open Play,Right Foot,False,False
+3869117,Netherlands 3–1 United States,Round of 16,United States,Haji Wright,94,111.3,40.2,0.072495155,Wayward,Open Play,Head,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Mathías Olivera,2,98.2,27.8,0.039672486,Off T,Open Play,Left Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,William Carvalho,2,104.9,30.5,0.048683427,Off T,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,7,90.8,53.9,0.014580331,Off T,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,José Giménez,11,109.4,37.1,0.050594334,Off T,Open Play,Head,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,João Félix,15,101.0,30.9,0.033737455,Blocked,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Cristiano Ronaldo,17,96.0,23.4,0.026755862,Blocked,Free Kick,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Rúben Neves,19,92.4,50.0,0.015326656,Blocked,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Rodrigo Bentancur,31,106.8,41.3,0.49410823,Saved,Open Play,Right Foot,False,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Cristiano Ronaldo,34,99.4,24.7,0.029249214,Blocked,Open Play,Left Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,João Félix,34,91.6,31.8,0.022321237,Blocked,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Rodrigo Bentancur,35,108.4,29.5,0.07433986,Wayward,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,36,93.1,33.0,0.028039778,Blocked,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,João Félix,51,107.9,27.1,0.036293734,Off T,Open Play,Left Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,53,99.4,14.6,0.0077694156,Goal,Open Play,Right Foot,True,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Cristiano Ronaldo,56,84.9,19.1,0.007159395,Wayward,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Edinson Cavani,57,102.9,39.7,0.07401822,Off T,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Darwin Núñez,59,92.8,43.6,0.03092143,Saved,Open Play,Right Foot,False,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Mathías Olivera,64,108.1,33.8,0.041303303,Blocked,Open Play,Head,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Maxi Gómez,74,99.2,43.2,0.047642853,Post,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Luis Suárez,77,115.6,34.0,0.088375136,Off T,Open Play,Left Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Giorgian De Arrascaeta,78,109.3,50.0,0.2560759,Saved,Open Play,Right Foot,False,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Rafael Leão,82,95.3,49.1,0.026902085,Off T,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Uruguay,Federico Valverde,85,88.2,44.5,0.019629322,Off T,Open Play,Right Foot,False,False
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,92,108.0,40.0,0.7835,Goal,Penalty,Right Foot,True,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,97,117.7,50.0,0.032710962,Saved,Open Play,Right Foot,False,True
+3857270,Portugal 2–0 Uruguay,Group Stage,Portugal,Bruno Fernandes,98,100.6,35.0,0.100704454,Post,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Spain,Daniel Olmo,6,100.5,26.1,0.032144632,Saved to Post,Open Play,Right Foot,False,True
+3857263,Spain 1–1 Germany,Group Stage,Spain,Jordi Alba,21,96.6,23.3,0.021667236,Off T,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Serge Gnabry,24,102.8,56.6,0.028963488,Off T,Open Play,Left Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Spain,Ferrán Torres,25,102.8,46.4,0.068952255,Blocked,Open Play,Left Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Antonio Rüdiger,29,89.6,25.9,0.0065071667,Off T,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Spain,Ferrán Torres,35,109.8,54.6,0.04777013,Blocked,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Antonio Rüdiger,44,113.7,60.2,0.008851705,Saved,Open Play,Right Foot,False,True
+3857263,Spain 1–1 Germany,Group Stage,Germany,Joshua Kimmich,55,105.8,40.6,0.09558376,Saved,Open Play,Right Foot,False,True
+3857263,Spain 1–1 Germany,Group Stage,Spain,Daniel Olmo,58,85.8,31.1,0.0118638035,Saved,Open Play,Right Foot,False,True
+3857263,Spain 1–1 Germany,Group Stage,Spain,Álvaro Morata,61,113.2,34.3,0.31874228,Goal,Open Play,Right Foot,True,True
+3857263,Spain 1–1 Germany,Group Stage,Germany,Leon Goretzka,63,96.2,39.7,0.036448006,Blocked,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Spain,Marco Asensio Willemsen,64,101.7,45.4,0.13836038,Off T,Open Play,Left Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Niclas Füllkrug,72,111.2,41.5,0.3730103,Wayward,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Jamal Musiala,72,110.1,50.1,0.28996226,Saved,Open Play,Right Foot,False,True
+3857263,Spain 1–1 Germany,Group Stage,Germany,Serge Gnabry,72,104.9,23.6,0.024480116,Blocked,Open Play,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Niclas Füllkrug,73,111.3,42.8,0.065169856,Off T,Open Play,Head,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Joshua Kimmich,80,98.9,25.7,0.053563386,Blocked,Free Kick,Right Foot,False,False
+3857263,Spain 1–1 Germany,Group Stage,Germany,Niclas Füllkrug,82,110.8,51.9,0.16441207,Goal,Open Play,Right Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,5,110.4,33.0,0.06545554,Off T,Open Play,Head,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,10,114.4,54.2,0.016927462,Post,Open Play,Left Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Filip Kostić,10,108.2,21.4,0.012009094,Off T,Open Play,Left Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Nicolas N'Koulou,15,95.9,33.9,0.046143826,Off T,Open Play,Left Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,16,108.9,38.6,0.063389905,Off T,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Pierre Kunde,18,108.1,60.1,0.009715966,Saved,Open Play,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Pierre Kunde,19,96.8,50.1,0.029523049,Blocked,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Nicolas N'Koulou,28,115.2,33.5,0.09064111,Blocked,Open Play,Head,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Jean-Charles Castelletto,28,118.5,43.2,0.8945071,Goal,Open Play,Right Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Pierre Kunde,42,103.5,53.8,0.0845098,Saved,Open Play,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Pierre Kunde,42,110.5,55.1,0.056867022,Off T,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Strahinja Pavlović,45,110.7,42.8,0.07892812,Goal,Open Play,Head,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Sergej Milinković-Savić,47,99.6,46.7,0.058657028,Goal,Open Play,Left Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,50,98.4,45.9,0.08318807,Blocked,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Saša Lukić,51,103.0,49.6,0.039666813,Blocked,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,52,113.6,40.2,0.8974681,Goal,Open Play,Right Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Vincent Aboubakar,59,106.5,47.6,0.05176351,Blocked,Open Play,Left Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Karl Toko Ekambi,61,106.4,24.5,0.02132554,Saved,Open Play,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Sergej Milinković-Savić,62,96.4,47.8,0.10917903,Off T,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Vincent Aboubakar,62,104.4,49.0,0.28323865,Goal,Open Play,Right Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Eric Maxim Choupo-Moting,65,111.0,37.0,0.46942416,Goal,Open Play,Left Foot,True,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Nikola Milenković,69,110.5,45.7,0.0304652,Wayward,Open Play,Head,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,75,110.1,55.7,0.10947208,Saved,Open Play,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Sergej Milinković-Savić,77,95.2,48.2,0.032438725,Off T,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Vincent Aboubakar,86,94.0,24.8,0.025639288,Saved,Open Play,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Aleksandar Mitrović,88,105.1,38.3,0.1134657,Off T,Open Play,Right Foot,False,False
+3857259,Cameroon 3–3 Serbia,Group Stage,Cameroon,Georges-Kevin N'Koudou,94,103.3,13.7,0.0070103277,Saved,Free Kick,Right Foot,False,True
+3857259,Cameroon 3–3 Serbia,Group Stage,Serbia,Marko Grujić,94,92.3,33.6,0.027356416,Saved,Open Play,Right Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Michy Batshuayi,4,110.0,29.6,0.13561569,Saved,Open Play,Left Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Kevin De Bruyne,15,95.2,30.1,0.023734333,Blocked,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Amadou Onana,16,114.6,38.6,0.22733837,Off T,Open Play,Head,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Thomas Meunier,18,101.1,27.4,0.050302412,Saved,Open Play,Right Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Hakim Ziyech,20,88.5,52.0,0.010982664,Off T,Open Play,Left Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Selim Amallah,27,106.0,49.7,0.054105066,Off T,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Achraf Hakimi,34,109.4,56.3,0.054164495,Off T,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Kevin De Bruyne,34,94.1,42.1,0.021631707,Blocked,Open Play,Left Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Kevin De Bruyne,38,112.6,6.7,0.007375095,Off T,Free Kick,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Hakim Ziyech,49,95.2,48.1,0.02991042,Saved,Open Play,Left Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Eden Hazard,51,104.9,58.7,0.009158539,Saved,Open Play,Right Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Amadou Onana,51,111.4,40.8,0.06452631,Off T,Open Play,Head,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Sofiane Boufal,56,106.6,22.0,0.01369968,Off T,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Noussair Mazraoui,60,87.4,35.3,0.022188112,Off T,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Dries Mertens,64,97.9,37.7,0.065653466,Saved,Open Play,Right Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Azzedine Ounahi,68,87.6,38.2,0.023304239,Off T,Open Play,Right Foot,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Romain Saïss,72,118.0,36.4,0.56495196,Goal,Open Play,Other,True,True
+3857283,Belgium 0–2 Morocco,Group Stage,Belgium,Jan Vertonghen,81,109.1,37.6,0.03727616,Off T,Open Play,Head,False,False
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Abderrazak Hamdallah,90,116.6,28.9,0.036752854,Saved,Open Play,Left Foot,False,True
+3857283,Belgium 0–2 Morocco,Group Stage,Morocco,Zakaria Aboukhlal,91,110.3,46.8,0.18104906,Goal,Open Play,Right Foot,True,True
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Enner Valencia,15,108.1,40.1,0.7835,Goal,Penalty,Right Foot,True,True
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Romario Ibarra,28,96.5,46.4,0.057691004,Off T,Open Play,Right Foot,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Enner Valencia,30,109.6,38.0,0.08878088,Goal,Open Play,Head,True,True
+3857286,Qatar 0–2 Ecuador,Group Stage,Qatar,Abdelkarim Hassan,32,88.4,22.4,0.0062173195,Off T,Open Play,Left Foot,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Qatar,Almoez Ali,49,113.0,43.7,0.21267414,Off T,Open Play,Head,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Angelo Preciado,51,91.7,61.5,0.0066099144,Off T,Open Play,Right Foot,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Romario Ibarra,54,101.9,32.3,0.07894745,Saved,Open Play,Right Foot,False,True
+3857286,Qatar 0–2 Ecuador,Group Stage,Qatar,Pedro Miguel Correia,61,106.5,47.5,0.030855335,Off T,Open Play,Head,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Qatar,Akram Afif,74,92.1,23.1,0.009109482,Off T,Open Play,Right Foot,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Qatar,Mohammed Muntari,85,100.2,55.2,0.045332674,Off T,Open Play,Right Foot,False,False
+3857286,Qatar 0–2 Ecuador,Group Stage,Ecuador,Kevin Rodríguez,94,112.3,37.4,0.13848205,Off T,Open Play,Head,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lionel Messi,1,104.5,44.5,0.15308252,Saved,Open Play,Left Foot,False,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lionel Messi,9,108.0,40.0,0.7835,Goal,Penalty,Left Foot,True,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Papu Gómez,20,98.4,20.2,0.011924569,Off T,Open Play,Right Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lautaro Martínez,41,113.2,33.8,0.0877444,Blocked,Open Play,Head,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Rodrigo De Paul,41,101.1,41.8,0.050540753,Off T,Open Play,Right Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Saudi Arabia,Saleh Al Shehri,47,108.0,29.6,0.080592275,Goal,Open Play,Left Foot,True,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Saudi Arabia,Nawaf Al Abid,52,104.9,54.1,0.040064447,Blocked,Open Play,Left Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Saudi Arabia,Salem Al Dawsari,52,102.4,25.3,0.03280492,Goal,Open Play,Right Foot,True,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lisandro Martínez,62,111.1,39.9,0.33156127,Blocked,Open Play,Right Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Nicolás Tagliafico,62,116.1,37.2,0.63619345,Saved,Open Play,Other,False,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lautaro Martínez,68,116.5,31.1,0.077176735,Off T,Open Play,Head,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Ángel Di María,71,111.4,54.4,0.0639515,Saved,Open Play,Right Foot,False,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Ángel Di María,73,86.7,57.3,0.015201165,Blocked,Open Play,Left Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Enzo Fernandez,75,108.2,39.6,0.036932193,Off T,Open Play,Head,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lionel Messi,79,92.8,47.1,0.056788407,Off T,Free Kick,Left Foot,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Lionel Messi,83,113.6,32.2,0.077553175,Saved,Open Play,Head,False,True
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Nicolás Otamendi,90,109.5,37.8,0.048093256,Wayward,Open Play,Head,False,False
+3857300,Argentina 1–2 Saudi Arabia,Group Stage,Argentina,Julián Álvarez,100,112.5,33.2,0.061390053,Saved,Open Play,Head,False,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,3,111.9,44.7,0.09163986,Blocked,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Jeong Woo-Yeong,7,96.7,49.1,0.03008143,Blocked,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Min Jae Kim,7,114.5,47.9,0.059008703,Wayward,Open Play,Head,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Hwang In-Beom,7,95.7,54.9,0.019586006,Blocked,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,17,115.4,30.4,0.055939306,Blocked,Open Play,Head,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Mohamed Salisu,23,115.5,37.9,0.4040968,Goal,Open Play,Left Foot,True,True
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Mohammed Kudus,33,113.1,41.8,0.20083603,Goal,Open Play,Head,True,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Jung Woo-Young,44,100.6,20.0,0.010946972,Off T,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Thomas Partey,49,118.3,36.2,0.21468838,Off T,Open Play,Head,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Tariq Lamptey,49,104.8,52.1,0.07450179,Off T,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,52,111.6,36.7,0.07677545,Saved,Open Play,Head,False,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,57,112.6,38.4,0.23484395,Goal,Open Play,Head,True,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,60,115.5,43.7,0.16237147,Goal,Open Play,Head,True,True
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Iñaki Williams,67,109.2,32.5,0.10557394,Wayward,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Mohammed Kudus,67,108.4,48.6,0.15416233,Goal,Open Play,Left Foot,True,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Lee Kang-In,74,90.9,45.4,0.034794893,Saved,Free Kick,Left Foot,False,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Son Heung-Min,75,110.9,29.2,0.065267496,Blocked,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Lee Kang-In,75,114.2,56.1,0.011154885,Blocked,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Kim Jin-Su,75,112.0,30.1,0.19109753,Blocked,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,Ghana,Salis Abdul Samed,82,96.1,40.1,0.026676558,Off T,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Kim Jin-Su,83,107.7,23.5,0.03964235,Off T,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Kim Jin-Su,85,112.0,33.2,0.054534186,Wayward,Open Play,Head,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Son Heung-Min,90,109.6,28.5,0.060233038,Blocked,Open Play,Right Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Kim Young-Gwon,90,103.6,37.6,0.064945966,Blocked,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Na Sangho,90,113.0,49.3,0.05996953,Saved,Open Play,Head,False,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Cho Kyu-Sung,93,111.6,23.1,0.014336902,Saved,Open Play,Left Foot,False,True
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Lee Kang-In,99,98.5,56.8,0.025138553,Off T,Open Play,Left Foot,False,False
+3857299,South Korea 2–3 Ghana,Group Stage,South Korea,Kwon Kyung-Won,100,83.8,54.1,0.005484339,Blocked,Open Play,Left Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Jordan Ayew,15,101.8,36.6,0.07146578,Saved,Open Play,Right Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,André Ayew,20,108.0,40.0,0.7835,Saved,Penalty,Left Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Darwin Núñez,22,106.8,29.0,0.15781382,Blocked,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Luis Suárez,25,108.6,33.4,0.2733873,Saved,Open Play,Right Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Giorgian De Arrascaeta,25,118.0,42.7,0.71106935,Goal,Open Play,Head,True,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Giorgian De Arrascaeta,31,110.8,31.2,0.16736692,Goal,Open Play,Right Foot,True,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Mohammed Kudus,36,94.7,45.8,0.041819587,Blocked,Open Play,Left Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,José Giménez,49,106.5,42.5,0.03238874,Off T,Open Play,Head,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Osman Bukari,45,104.7,50.8,0.08441304,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Facundo Pellistri,64,107.5,33.2,0.099497445,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Federico Valverde,69,92.5,22.5,0.0066686436,Saved,Open Play,Right Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Federico Valverde,69,93.0,21.1,0.008103582,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Mohammed Kudus,70,95.7,47.2,0.04665373,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Federico Valverde,76,59.0,4.0,0.003913026,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Antoine Semenyo,78,109.6,28.0,0.12024433,Off T,Open Play,Left Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Mohammed Kudus,80,96.8,42.8,0.05586675,Saved,Open Play,Left Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Mohammed Kudus,94,108.0,43.6,0.10750313,Blocked,Open Play,Left Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Maxi Gómez,94,93.0,49.4,0.030132728,Saved,Open Play,Right Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Ghana,Kamaldeen Sulemana,95,99.5,50.6,0.081227794,Saved,Open Play,Right Foot,False,True
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Sebastián Coates,96,108.8,43.0,0.103292696,Off T,Open Play,Right Foot,False,False
+3857293,Ghana 0–2 Uruguay,Group Stage,Uruguay,Nicolás De La Cruz,99,91.4,33.9,0.0429242,Saved,Free Kick,Right Foot,False,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Daniel Olmo,4,112.4,45.9,0.20824905,Off T,Open Play,Right Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Marco Asensio Willemsen,8,102.5,40.7,0.1501565,Off T,Open Play,Left Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Daniel Olmo,10,112.3,39.3,0.48925844,Goal,Open Play,Right Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Marco Asensio Willemsen,20,105.8,33.4,0.09218961,Goal,Open Play,Left Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Ferrán Torres,30,108.1,40.1,0.7835,Goal,Penalty,Right Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Marco Asensio Willemsen,42,91.7,29.8,0.015886325,Blocked,Open Play,Left Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Marco Asensio Willemsen,49,110.5,30.5,0.04809784,Off T,Open Play,Left Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Marco Asensio Willemsen,47,100.5,45.7,0.08547543,Off T,Open Play,Left Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Ferrán Torres,53,114.7,49.4,0.10498973,Goal,Open Play,Left Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Daniel Olmo,61,92.0,25.7,0.017297672,Off T,Open Play,Right Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Álvaro Morata,62,112.0,54.0,0.06487478,Off T,Open Play,Right Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Daniel Olmo,69,110.3,29.3,0.033574425,Saved,Open Play,Head,False,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Gavi,73,103.0,45.8,0.056229107,Goal,Open Play,Right Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Carlos Soler,89,109.7,40.1,0.33333436,Goal,Open Play,Right Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Álvaro Morata,91,104.0,36.4,0.16366571,Goal,Open Play,Left Foot,True,True
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Carlos Soler,95,102.5,42.5,0.10654532,Off T,Open Play,Right Foot,False,False
+3857291,Spain 7–0 Costa Rica,Group Stage,Spain,Carlos Soler,97,103.5,16.7,0.008599174,Blocked,Free Kick,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Alphonso Davies,1,109.6,36.4,0.08130363,Goal,Open Play,Head,True,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Marko Livaja,21,109.5,36.8,0.4341785,Saved,Open Play,Right Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Marko Livaja,34,109.9,50.0,0.24546398,Saved,Open Play,Right Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Andrej Kramarić,35,114.1,29.4,0.14639324,Goal,Open Play,Left Foot,True,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Marko Livaja,43,101.0,39.1,0.13916126,Goal,Open Play,Right Foot,True,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Andrej Kramarić,46,98.7,33.1,0.059277993,Off T,Open Play,Left Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Jonathan Osorio,48,98.3,50.1,0.03829635,Off T,Open Play,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Andrej Kramarić,53,108.2,42.1,0.24875651,Saved,Open Play,Right Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Jonathan David,55,96.4,39.9,0.052886155,Saved,Open Play,Right Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Tajon Buchanan,57,99.8,52.9,0.023891453,Blocked,Open Play,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Alphonso Davies,62,101.1,59.8,0.011981465,Blocked,Free Kick,Left Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Andrej Kramarić,69,106.8,47.1,0.10933437,Goal,Open Play,Left Foot,True,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Andrej Kramarić,71,115.1,46.8,0.1355834,Wayward,Open Play,Left Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Junior Hoilett,76,92.2,33.0,0.019849088,Off T,Open Play,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Ivan Perišić,77,115.3,26.9,0.031612467,Saved,Open Play,Left Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Marcelo Brozović,77,110.3,42.6,0.30414897,Saved,Open Play,Left Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Ivan Perišić,81,96.0,26.3,0.02367336,Off T,Open Play,Left Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Mislav Oršić,89,98.2,35.1,0.045590583,Saved,Open Play,Right Foot,False,True
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Junior Hoilett,92,98.1,33.5,0.03737635,Blocked,Open Play,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Canada,Junior Hoilett,92,99.5,26.7,0.02121069,Off T,Open Play,Right Foot,False,False
+3857281,Croatia 4–1 Canada,Group Stage,Croatia,Lovro Majer,93,109.2,45.4,0.68703645,Goal,Open Play,Left Foot,True,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Fred,1,108.7,38.6,0.29454654,Wayward,Open Play,Left Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Antony,1,103.3,25.5,0.038875267,Wayward,Open Play,Left Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Martinelli,13,111.8,34.5,0.12449543,Saved,Open Play,Head,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Jesus,14,113.4,48.9,0.044797283,Off T,Open Play,Head,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Fred,21,107.6,39.2,0.083684884,Blocked,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Rodrygo,29,94.0,42.7,0.0651609,Blocked,Free Kick,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Dani Alves,33,96.7,29.3,0.06485747,Off T,Free Kick,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Antony,37,105.6,52.3,0.033440635,Saved,Open Play,Left Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Martinelli,45,101.3,45.2,0.047920834,Saved,Open Play,Right Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Rodrygo,46,107.8,50.0,0.06651591,Off T,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Bryan Mbeumo,47,113.5,47.4,0.11827337,Saved,Open Play,Head,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Vincent Aboubakar,50,109.5,54.0,0.07058843,Off T,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Jesus,52,111.9,36.3,0.27918908,Saved,Open Play,Right Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Pierre Kunde,53,91.8,17.8,0.006493906,Off T,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Martinelli,55,108.9,25.7,0.038835723,Saved,Open Play,Right Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Éder Militão,56,105.3,39.2,0.075584605,Saved,Open Play,Left Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Antony,57,101.0,51.2,0.037848417,Saved,Open Play,Left Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Bruno Guimarães,72,99.9,37.6,0.086029716,Off T,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Olivier Ntcham,77,92.8,35.5,0.03332142,Saved,Open Play,Right Foot,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Vincent Aboubakar,79,104.1,25.5,0.042308386,Blocked,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Christopher Wooh,80,106.3,39.9,0.05692788,Wayward,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Bruno Guimarães,83,114.9,44.0,0.14917652,Blocked,Open Play,Right Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Pedro,88,104.2,47.1,0.18481041,Off T,Open Play,Left Foot,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Cameroon,Vincent Aboubakar,91,106.7,40.7,0.05544736,Goal,Open Play,Head,True,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Pedro,95,108.8,37.5,0.07645427,Off T,Open Play,Head,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Bruno Guimarães,96,112.9,39.8,0.17098139,Saved,Open Play,Head,False,True
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Gabriel Martinelli,97,115.1,36.0,0.1945778,Off T,Open Play,Head,False,False
+3857280,Cameroon 1–0 Brazil,Group Stage,Brazil,Bruno Guimarães,98,114.1,35.3,0.22043578,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Ousmane Dembélé,1,95.0,47.8,0.018982504,Blocked,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,Australia,Riley McGree,2,89.5,39.1,0.030384658,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,Australia,Craig Goodwin,8,114.2,31.3,0.19147108,Goal,Open Play,Left Foot,True,True
+3857279,France 4–1 Australia,Group Stage,France,Theo Hernández,12,92.7,34.0,0.017692888,Wayward,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,Australia,Mitchell Duke,21,91.1,46.9,0.017896876,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Antoine Griezmann,25,112.1,52.7,0.034694295,Blocked,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Adrien Rabiot,26,111.6,42.0,0.16905431,Goal,Open Play,Head,True,True
+3857279,France 4–1 Australia,Group Stage,France,Olivier Giroud,28,112.3,39.8,0.17925091,Off T,Open Play,Head,False,False
+3857279,France 4–1 Australia,Group Stage,France,Olivier Giroud,31,110.5,39.2,0.77927965,Goal,Open Play,Right Foot,True,True
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,36,105.0,47.2,0.08709453,Blocked,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Olivier Giroud,36,104.5,38.9,0.14067347,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Ousmane Dembélé,39,106.5,38.2,0.08098688,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Antoine Griezmann,41,99.5,47.5,0.04884043,Off T,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,44,112.9,40.2,0.5517509,Off T,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,Australia,Jackson Irvine,46,110.1,43.4,0.083539926,Post,Open Play,Head,False,False
+3857279,France 4–1 Australia,Group Stage,France,Aurélien Tchouaméni,49,96.3,40.8,0.035826564,Blocked,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Olivier Giroud,49,111.6,44.2,0.07860331,Off T,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,60,107.5,31.1,0.12751806,Blocked,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,62,109.2,30.1,0.07606661,Blocked,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Ibrahima Konaté,62,113.0,40.0,0.096129,Off T,Open Play,Head,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,63,108.0,25.2,0.027555656,Blocked,Open Play,Right Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Antoine Griezmann,66,105.3,36.2,0.17584424,Blocked,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,66,115.7,24.7,0.013371275,Wayward,Open Play,Left Foot,False,False
+3857279,France 4–1 Australia,Group Stage,France,Kylian Mbappé,67,113.5,42.2,0.14142905,Goal,Open Play,Head,True,True
+3857279,France 4–1 Australia,Group Stage,France,Olivier Giroud,70,113.5,42.6,0.16888039,Goal,Open Play,Head,True,True
+3857279,France 4–1 Australia,Group Stage,France,Ibrahima Konaté,89,112.1,41.4,0.07988335,Saved,Open Play,Head,False,True
+3857279,France 4–1 Australia,Group Stage,France,Theo Hernández,90,112.8,32.1,0.041087516,Saved,Open Play,Head,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Ricardo Horta,4,113.6,47.0,0.29158956,Goal,Open Play,Right Foot,True,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,João Cancelo,14,117.5,20.6,0.010523141,Saved,Open Play,Right Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Son Heung-Min,15,108.5,21.6,0.011031977,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Cho Kyu-Sung,16,111.1,32.0,0.040536147,Saved,Open Play,Head,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Kim Young-Gwon,26,116.7,38.0,0.6242964,Goal,Open Play,Left Foot,True,True
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Hwang In-Beom,30,98.2,31.4,0.020656463,Blocked,Open Play,Left Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Diogo Dalot,33,92.8,40.0,0.036435805,Saved,Open Play,Left Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Vitinha,34,91.6,45.7,0.017112639,Saved,Open Play,Right Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Cristiano Ronaldo,36,110.6,56.3,0.022429451,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Son Heung-Min,39,94.6,44.2,0.024709688,Saved,Open Play,Left Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Matheus Nunes,40,92.6,58.9,0.007849269,Off T,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Vitinha,41,97.8,46.9,0.03675865,Saved,Open Play,Right Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Cristiano Ronaldo,41,112.7,35.0,0.28873095,Off T,Open Play,Head,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Ricardo Horta,43,104.3,43.4,0.11468789,Saved,Open Play,Left Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Ricardo Horta,46,101.8,45.2,0.052517958,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Son Heung-Min,55,104.5,54.7,0.023785131,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Lee Jae-Sung,56,97.9,50.9,0.021393217,Off T,Open Play,Left Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Son Heung-Min,65,98.1,47.1,0.039930075,Saved,Open Play,Left Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Hwang In-Beom,66,98.4,35.1,0.100738145,Saved,Open Play,Left Foot,False,True
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Son Heung-Min,69,111.1,52.8,0.04621987,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,Rafael Leão,71,94.1,55.0,0.029762346,Off T,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Lee Kang-In,73,88.0,49.4,0.023724081,Off T,Free Kick,Left Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,João Palhinha,80,88.8,40.2,0.021024177,Blocked,Open Play,Right Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,Portugal,João Cancelo,89,112.1,25.0,0.04430043,Blocked,Open Play,Left Foot,False,False
+3857262,South Korea 2–1 Portugal,Group Stage,South Korea,Hwang Hee-Chan,90,108.3,44.6,0.42196128,Goal,Open Play,Right Foot,True,True
